@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<head>
+		<title>Record_bcont</title>
+		<script>
+			function handlePupFlrChange() {parent.parent.window.handlePupChange(document,"PupFlr","");};
+			function handleChkFlgChange() {parent.parent.window.handleChkChange(document,"ChkFlg");};
+			function handlePupFrrChange() {parent.parent.window.handlePupChange(document,"PupFrr","");};
+			function handleChkFrgChange() {parent.parent.window.handleChkChange(document,"ChkFrg");};
+			function handlePupFirChange() {parent.parent.window.handlePupChange(document,"PupFir","");};
+			function handleChkFqcChange() {parent.parent.window.handleChkChange(document,"ChkFqc");};
+			function handleChkFstChange() {parent.parent.window.handleChkChange(document,"ChkFst");};
+			function handleSldVfrJpleftMov() {parent.parent.window.handleSldJpleftMov(document,"SldVfr");};
+			function handleSldVfrJpleftMou() {parent.parent.window.handleSldJpleftMou(document,"SldVfr");};
+			function handleSldVfrJpleftClick(evt) {parent.parent.window.handleSldJpleftClick(document,"SldVfr",true,false,false,evt);};
+			function handleSldVfrJprightMov() {parent.parent.window.handleSldJprightMov(document,"SldVfr");};
+			function handleSldVfrJprightMou() {parent.parent.window.handleSldJprightMou(document,"SldVfr");};
+			function handleSldVfrJprightClick(evt) {parent.parent.window.handleSldJprightClick(document,"SldVfr",true,false,false,evt);};
+			function handleSldVfrMov() {parent.parent.window.handleSldMov(document,"SldVfr");};
+			function handleSldVfrMou() {parent.parent.window.handleSldMou(document,"SldVfr");};
+			function handleSldVfrMdn() {parent.parent.window.handleSldMdn(document,"SldVfr");};
+			function handleSldVfrMove(evt) {parent.parent.window.handleSldMove(document,"SldVfr",true,false,false,evt);};
+			function handleSldVfrMup() {parent.parent.window.handleSldMup(document,"SldVfr",true);};
+			function handleSldVfrValKey(evt) {return parent.parent.window.handleSldValKey(document,"SldVfr",true,false,false,evt);};
+			function handleSldVfrValChange() {parent.parent.window.handleSldValChange(document,"SldVfr",true,false,false);};
+			function handlePupVlrChange() {parent.parent.window.handlePupChange(document,"PupVlr","");};
+			function handleChkVlgChange() {parent.parent.window.handleChkChange(document,"ChkVlg");};
+			function handlePupVrrChange() {parent.parent.window.handlePupChange(document,"PupVrr","");};
+			function handleChkVrgChange() {parent.parent.window.handleChkChange(document,"ChkVrg");};
+			function handlePupVirChange() {parent.parent.window.handlePupChange(document,"PupVir","");};
+			function handleChkVqcChange() {parent.parent.window.handleChkChange(document,"ChkVqc");};
+			function handleChkVstChange() {parent.parent.window.handleChkChange(document,"ChkVst");};
+			function handlePupOwrChange() {parent.parent.window.handlePupChange(document,"PupOwr","");};
+			<!-- IP custScript - INSERT -->
+		</script>
+		<link href="../style/pnlDetail3_2.css" rel="styleSheet" type="text/css"/>
+		<!-- IP custStyle - INSERT -->
+	</head>
+	<body marginwidth="0" marginheight="0">
+		<table cellspacing="0" border="0" cellpadding="0"><form action="">
+			<colgroup>
+				<col width="5"/>
+				<col width="215"/>
+				<col width="5"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="68"/>
+				<col width="2"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="1"/>
+				<col width="114"/>
+			</colgroup>
+			<tbody id="tbl">
+				<tr><td colspan="11" height="5"></td></tr>
+				<tr id="trFrame" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgFrame" class="cpt">HdgFrame</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trFlr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFlr" class="cpt">CptFlr</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupFlr" class="pup" size="1" onchange="handlePupFlrChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trFlg" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFlg" class="cpt">CptFlg</span>
+					</td>
+					<td></td>
+					<td align="left">
+						<input id="ChkFlg" class="chk" name="ChkFlg" type="checkbox" checked="checked" onchange="handleChkFlgChange()"/>
+					</td>
+					<td colspan="7"></td>
+				</tr>
+				<tr id="trFrr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFrr" class="cpt">CptFrr</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupFrr" class="pup" size="1" onchange="handlePupFrrChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trFrg" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFrg" class="cpt">CptFrg</span>
+					</td>
+					<td></td>
+					<td align="left">
+						<input id="ChkFrg" class="chk" name="ChkFrg" type="checkbox" checked="checked" onchange="handleChkFrgChange()"/>
+					</td>
+					<td colspan="7"></td>
+				</tr>
+				<tr id="trFir" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFir" class="cpt">CptFir</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupFir" class="pup" size="1" onchange="handlePupFirChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trFqc" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFqc" class="cpt">CptFqc</span>
+					</td>
+					<td></td>
+					<td align="left">
+						<input id="ChkFqc" class="chk" name="ChkFqc" type="checkbox" checked="checked" onchange="handleChkFqcChange()"/>
+					</td>
+					<td colspan="7"></td>
+				</tr>
+				<tr id="trFst" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFst" class="cpt">CptFst</span>
+					</td>
+					<td></td>
+					<td align="left">
+						<input id="ChkFst" class="chk" name="ChkFst" type="checkbox" checked="checked" onchange="handleChkFstChange()"/>
+					</td>
+					<td colspan="7"></td>
+				</tr>
+				<tr id="tr11" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr12" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr13" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trVideo" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgVideo" class="cpt">HdgVideo</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trVfr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVfr" class="cpt">CptVfr</span>
+					</td>
+					<td></td>
+					<td id="tdSldVfr" colspan="5">
+						<svg class="svg" width="340" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<line class="sldlinact" x1="0" y1="12.5" x2="5" y2="12.5"/>
+							<line class="sldlinact" x1="335" y1="12.5" x2="340" y2="12.5"/>
+							<g id="SldVfrJpleft" class="sld" onmouseover="handleSldVfrJpleftMov()" onmouseout="handleSldVfrJpleftMou()" onclick="handleSldVfrJpleftClick(event)">
+								<rect id="SldVfrJpleftr" class="sldr" x="5" y="2" width="165" height="18"/>
+								<line id="SldVfrJpleftl" class="sldl" x1="5" y1="12.5" x2="167.5" y2="12.5"/>
+							</g>
+							<g id="SldVfrJpright" class="sld" onmouseover="handleSldVfrJprightMov()" onmouseout="handleSldVfrJprightMou()" onclick="handleSldVfrJprightClick(event)">
+								<rect id="SldVfrJprightr" class="sldr" x="170" y="2" width="165" height="18"/>
+								<line id="SldVfrJprightl" class="sldl" x1="172.5" y1="12.5" x2="335" y2="12.5"/>
+							</g>
+							<g id="SldVfr" class="sld" transform="translate(170 0)" onmouseover="handleSldVfrMov()" onmouseout="handleSldVfrMou()" onmousedown="handleSldVfrMdn()">
+								<rect id="SldVfrR" class="sldr" x="-3" y="2" width="6" height="21"/>
+								<g id="SldVfrBar" class="sldl">
+									<line x1="-2" y1="2" x2="-2" y2="23"/>
+									<line x1="2" y1="2" x2="2" y2="23"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<input id="SldVfrVal" class="txfxs" type="text" value="SldVfrVal" onchange="handleSldVfrValChange()" onkeypress="return handleSldVfrValKey(event)"/>
+					</td>
+				</tr>
+				<tr id="trVlr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVlr" class="cpt">CptVlr</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupVlr" class="pup" size="1" onchange="handlePupVlrChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trVlg" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVlg" class="cpt">CptVlg</span>
+					</td>
+					<td></td>
+					<td align="left">
+						<input id="ChkVlg" class="chk" name="ChkVlg" type="checkbox" checked="checked" onchange="handleChkVlgChange()"/>
+					</td>
+					<td colspan="7"></td>
+				</tr>
+				<tr id="trVrr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVrr" class="cpt">CptVrr</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupVrr" class="pup" size="1" onchange="handlePupVrrChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trVrg" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVrg" class="cpt">CptVrg</span>
+					</td>
+					<td></td>
+					<td align="left">
+						<input id="ChkVrg" class="chk" name="ChkVrg" type="checkbox" checked="checked" onchange="handleChkVrgChange()"/>
+					</td>
+					<td colspan="7"></td>
+				</tr>
+				<tr id="trVir" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVir" class="cpt">CptVir</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupVir" class="pup" size="1" onchange="handlePupVirChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trVqc" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVqc" class="cpt">CptVqc</span>
+					</td>
+					<td></td>
+					<td align="left">
+						<input id="ChkVqc" class="chk" name="ChkVqc" type="checkbox" checked="checked" onchange="handleChkVqcChange()"/>
+					</td>
+					<td colspan="7"></td>
+				</tr>
+				<tr id="trVst" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVst" class="cpt">CptVst</span>
+					</td>
+					<td></td>
+					<td align="left">
+						<input id="ChkVst" class="chk" name="ChkVst" type="checkbox" checked="checked" onchange="handleChkVstChange()"/>
+					</td>
+					<td colspan="7"></td>
+				</tr>
+				<tr id="tr21" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr22" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr23" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trOwr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptOwr" class="cpt">CptOwr</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupOwr" class="pup" size="1" onchange="handlePupOwrChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr><td colspan="11" height="4"></td></tr>
+			</tbody>
+		</form></table>
+	</body>
+</html>
+

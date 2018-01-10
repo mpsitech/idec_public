@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<head>
+		<title>Mech_bcont</title>
+		<script>
+			function handleButTheCcwClick() {parent.parent.window.handleButClick("ButTheCcw");};
+			function handleButTheCcwstMdn() {parent.parent.window.handleButMdn("ButTheCcwst");};
+			function handleButTheCcwstMup() {parent.parent.window.handleButMup("ButTheCcwst");};
+			function handleButTheCwstMdn() {parent.parent.window.handleButMdn("ButTheCwst");};
+			function handleButTheCwstMup() {parent.parent.window.handleButMup("ButTheCwst");};
+			function handleButTheCwClick() {parent.parent.window.handleButClick("ButTheCw");};
+			function handleTxfTgrKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfTgr","s",evt);};
+			function handleTxfTgrChange() {parent.parent.window.handleTxfChange(document,"TxfTgr","s");};
+			function handleSldTllJpleftMov() {parent.parent.window.handleSldJpleftMov(document,"SldTll");};
+			function handleSldTllJpleftMou() {parent.parent.window.handleSldJpleftMou(document,"SldTll");};
+			function handleSldTllJpleftClick(evt) {parent.parent.window.handleSldJpleftClick(document,"SldTll",true,false,false,evt);};
+			function handleSldTllJprightMov() {parent.parent.window.handleSldJprightMov(document,"SldTll");};
+			function handleSldTllJprightMou() {parent.parent.window.handleSldJprightMou(document,"SldTll");};
+			function handleSldTllJprightClick(evt) {parent.parent.window.handleSldJprightClick(document,"SldTll",true,false,false,evt);};
+			function handleSldTllMov() {parent.parent.window.handleSldMov(document,"SldTll");};
+			function handleSldTllMou() {parent.parent.window.handleSldMou(document,"SldTll");};
+			function handleSldTllMdn() {parent.parent.window.handleSldMdn(document,"SldTll");};
+			function handleSldTllMove(evt) {parent.parent.window.handleSldMove(document,"SldTll",true,false,false,evt);};
+			function handleSldTllMup() {parent.parent.window.handleSldMup(document,"SldTll",true);};
+			function handleSldTllValKey(evt) {return parent.parent.window.handleSldValKey(document,"SldTll",true,false,false,evt);};
+			function handleSldTllValChange() {parent.parent.window.handleSldValChange(document,"SldTll",true,false,false);};
+			function handleSldTulJpleftMov() {parent.parent.window.handleSldJpleftMov(document,"SldTul");};
+			function handleSldTulJpleftMou() {parent.parent.window.handleSldJpleftMou(document,"SldTul");};
+			function handleSldTulJpleftClick(evt) {parent.parent.window.handleSldJpleftClick(document,"SldTul",true,false,false,evt);};
+			function handleSldTulJprightMov() {parent.parent.window.handleSldJprightMov(document,"SldTul");};
+			function handleSldTulJprightMou() {parent.parent.window.handleSldJprightMou(document,"SldTul");};
+			function handleSldTulJprightClick(evt) {parent.parent.window.handleSldJprightClick(document,"SldTul",true,false,false,evt);};
+			function handleSldTulMov() {parent.parent.window.handleSldMov(document,"SldTul");};
+			function handleSldTulMou() {parent.parent.window.handleSldMou(document,"SldTul");};
+			function handleSldTulMdn() {parent.parent.window.handleSldMdn(document,"SldTul");};
+			function handleSldTulMove(evt) {parent.parent.window.handleSldMove(document,"SldTul",true,false,false,evt);};
+			function handleSldTulMup() {parent.parent.window.handleSldMup(document,"SldTul",true);};
+			function handleSldTulValKey(evt) {return parent.parent.window.handleSldValKey(document,"SldTul",true,false,false,evt);};
+			function handleSldTulValChange() {parent.parent.window.handleSldValChange(document,"SldTul",true,false,false);};
+			function handleButPhiCcwClick() {parent.parent.window.handleButClick("ButPhiCcw");};
+			function handleButPhiCcwstMdn() {parent.parent.window.handleButMdn("ButPhiCcwst");};
+			function handleButPhiCcwstMup() {parent.parent.window.handleButMup("ButPhiCcwst");};
+			function handleButPhiCwstMdn() {parent.parent.window.handleButMdn("ButPhiCwst");};
+			function handleButPhiCwstMup() {parent.parent.window.handleButMup("ButPhiCwst");};
+			function handleButPhiCwClick() {parent.parent.window.handleButClick("ButPhiCw");};
+			function handleTxfPgrKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfPgr","s",evt);};
+			function handleTxfPgrChange() {parent.parent.window.handleTxfChange(document,"TxfPgr","s");};
+			function handleSldPllJpleftMov() {parent.parent.window.handleSldJpleftMov(document,"SldPll");};
+			function handleSldPllJpleftMou() {parent.parent.window.handleSldJpleftMou(document,"SldPll");};
+			function handleSldPllJpleftClick(evt) {parent.parent.window.handleSldJpleftClick(document,"SldPll",true,false,false,evt);};
+			function handleSldPllJprightMov() {parent.parent.window.handleSldJprightMov(document,"SldPll");};
+			function handleSldPllJprightMou() {parent.parent.window.handleSldJprightMou(document,"SldPll");};
+			function handleSldPllJprightClick(evt) {parent.parent.window.handleSldJprightClick(document,"SldPll",true,false,false,evt);};
+			function handleSldPllMov() {parent.parent.window.handleSldMov(document,"SldPll");};
+			function handleSldPllMou() {parent.parent.window.handleSldMou(document,"SldPll");};
+			function handleSldPllMdn() {parent.parent.window.handleSldMdn(document,"SldPll");};
+			function handleSldPllMove(evt) {parent.parent.window.handleSldMove(document,"SldPll",true,false,false,evt);};
+			function handleSldPllMup() {parent.parent.window.handleSldMup(document,"SldPll",true);};
+			function handleSldPllValKey(evt) {return parent.parent.window.handleSldValKey(document,"SldPll",true,false,false,evt);};
+			function handleSldPllValChange() {parent.parent.window.handleSldValChange(document,"SldPll",true,false,false);};
+			function handleSldPulJpleftMov() {parent.parent.window.handleSldJpleftMov(document,"SldPul");};
+			function handleSldPulJpleftMou() {parent.parent.window.handleSldJpleftMou(document,"SldPul");};
+			function handleSldPulJpleftClick(evt) {parent.parent.window.handleSldJpleftClick(document,"SldPul",true,false,false,evt);};
+			function handleSldPulJprightMov() {parent.parent.window.handleSldJprightMov(document,"SldPul");};
+			function handleSldPulJprightMou() {parent.parent.window.handleSldJprightMou(document,"SldPul");};
+			function handleSldPulJprightClick(evt) {parent.parent.window.handleSldJprightClick(document,"SldPul",true,false,false,evt);};
+			function handleSldPulMov() {parent.parent.window.handleSldMov(document,"SldPul");};
+			function handleSldPulMou() {parent.parent.window.handleSldMou(document,"SldPul");};
+			function handleSldPulMdn() {parent.parent.window.handleSldMdn(document,"SldPul");};
+			function handleSldPulMove(evt) {parent.parent.window.handleSldMove(document,"SldPul",true,false,false,evt);};
+			function handleSldPulMup() {parent.parent.window.handleSldMup(document,"SldPul",true);};
+			function handleSldPulValKey(evt) {return parent.parent.window.handleSldValKey(document,"SldPul",true,false,false,evt);};
+			function handleSldPulValChange() {parent.parent.window.handleSldValChange(document,"SldPul",true,false,false);};
+<!-- IP custScript - IBEGIN -->
+			function handleCusTheAnsSet(angle) {parent.parent.window.handleCusTheAnsSet(angle);};
+			function handleCusPhiAnsSet(angle) {parent.parent.window.handleCusPhiAnsSet(angle);};
+<!-- IP custScript - IEND -->
+		</script>
+		<link href="../style/pnlDetail3_2.css" rel="styleSheet" type="text/css"/>
+<!-- IP custStyle - IBEGIN -->
+		<link href="../style/idec.css" rel="styleSheet" type="text/css"/>
+<!-- IP custStyle - IEND -->
+	</head>
+	<body marginwidth="0" marginheight="0">
+		<table cellspacing="0" border="0" cellpadding="0"><form action="">
+			<colgroup>
+				<col width="5"/>
+				<col width="215"/>
+				<col width="5"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="68"/>
+				<col width="2"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="1"/>
+				<col width="114"/>
+			</colgroup>
+			<tbody id="tbl">
+				<tr><td colspan="11" height="5"></td></tr>
+				<tr id="trOrsns" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgOrsns" class="cpt">HdgOrsns</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trOrs" class="show">
+<!-- IP trOrs - RBEGIN -->
+					<td height="150" colspan="11">
+						<svg width="690px" height="150px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<g id="oa" transform="translate(200,90)">
+								<g id="oacoo">
+									<line class="svgguide" x1="-80" y1="0" x2="80" y2="0"/>
+									<line class="svgguide" x1="0" y1="-80" x2="0" y2="0"/>
+								</g>
+								<g id="CusOrsAphveh" transform="rotate(35)">
+									<line class="svgsolid" x1="-50" y1="0" x2="50" y2="0" stroke="black" stroke-width="1"/>
+									<line class="svgsolid" x1="0" y1="-50" x2="0" y2="0" stroke="black" stroke-width="1"/>
+									<circle class="svgsolid" cx="-50" cy="0" r="8" stroke="black" stroke-width="1" fill="none"/>
+									<circle class="svgsolid" cx="50" cy="0" r="8" stroke="black" stroke-width="1" fill="none"/>
+									<path class="svgsolid" d="M30 -20 L50 -20 M45 -25 L50 -20 L45 -15" stroke="black" stroke-width="1" fill="none"/>
+								</g>
+								<path id="CusOrsApharc" class="svgguide" d="M0 -40 A40 40 0 0 1 22.943 -32.766"/>
+								<text id="TxtOrsAlpha" class="svgannotm" x="5" y="-60">TxtOrsAlpha</text>
+							</g>
+							<g id="ob" transform="translate(450,90)">
+								<g id="obcoo">
+									<line class="svgguide" x1="-80" y1="0" x2="80" y2="0"/>
+									<line class="svgguide" x1="0" y1="-80" x2="0" y2="0"/>
+								</g>
+								<g id="CusOrsBetveh" transform="rotate(-10)">
+									<line class="svgsolid" x1="-50" y1="0" x2="50" y2="0" stroke="black" stroke-width="1"/>
+									<line class="svgsolid" x1="0" y1="-50" x2="0" y2="0" stroke="black" stroke-width="1"/>
+									<path class="svgsolid" d="M-55 -8 L-45 -8 L-45 8 L-55 8 L-55 -8" stroke="black" stroke-width="1" fill="none"/>
+									<path class="svgsolid" d="M55 -8 L45 -8 L45 8 L55 8 L55 -8" stroke="black" stroke-width="1" fill="none"/>
+									<circle class="svgsolid" cx="50" cy="-20" r="5" stroke="black" stroke-width="1" fill="none"/>
+									<path class="svgsolid" d="M54 -24 L46 -16 M46 -24 L54 -16" stroke="black" stroke-width="1" fill="none"/>
+								</g>
+								<path id="CusOrsBetarc" class="svgguide" d="M0 -40 A40 40 0 0 1 -6.946 -39.392"/>
+								<text id="TxtOrsBeta" class="svgannotm" x="5" y="-60">TxtOrsBeta</text>
+							</g>
+						</svg>
+					</td>
+<!-- IP trOrs - REND -->
+				</tr>
+				<tr id="tr11" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr12" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr13" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trTheax" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgTheax" class="cpt">HdgTheax</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trThe" class="show">
+<!-- IP trThe - RBEGIN -->
+					<td height="150" colspan="11">
+						<svg width="690px" height="150px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<g id="the" transform="translate(300,75)">
+								<g id="CusTheAns">
+									<g transform="rotate(-90) translate(63,-1.5)"><rect id="CusTheAns90" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(90)"/></g>
+									<g transform="rotate(-85) translate(68,-1.5)"><rect id="CusTheAns85" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(85)"/></g>
+									<g transform="rotate(-80) translate(68,-1.5)"><rect id="CusTheAns80" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(80)"/></g>
+									<g transform="rotate(-75) translate(63,-1.5)"><rect id="CusTheAns75" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(75)"/></g>
+									<g transform="rotate(-70) translate(68,-1.5)"><rect id="CusTheAns70" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(70)"/></g>
+									<g transform="rotate(-65) translate(68,-1.5)"><rect id="CusTheAns65" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(65)"/></g>
+									<g transform="rotate(-60) translate(63,-1.5)"><rect id="CusTheAns60" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(60)"/></g>
+									<g transform="rotate(-55) translate(68,-1.5)"><rect id="CusTheAns55" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(55)"/></g>
+									<g transform="rotate(-50) translate(68,-1.5)"><rect id="CusTheAns50" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(50)"/></g>
+									<g transform="rotate(-45) translate(63,-1.5)"><rect id="CusTheAns45" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(45)"/></g>
+									<g transform="rotate(-40) translate(68,-1.5)"><rect id="CusTheAns40" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(40)"/></g>
+									<g transform="rotate(-35) translate(68,-1.5)"><rect id="CusTheAns35" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(35)"/></g>
+									<g transform="rotate(-30) translate(63,-1.5)"><rect id="CusTheAns30" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(30)"/></g>
+									<g transform="rotate(-25) translate(68,-1.5)"><rect id="CusTheAns25" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(25)"/></g>
+									<g transform="rotate(-20) translate(68,-1.5)"><rect id="CusTheAns20" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(20)"/></g>
+									<g transform="rotate(-15) translate(63,-1.5)"><rect id="CusTheAns15" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(15)"/></g>
+									<g transform="rotate(-10) translate(68,-1.5)"><rect id="CusTheAns10" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(10)"/></g>
+									<g transform="rotate(-5) translate(68,-1.5)"><rect id="CusTheAns5" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(5)"/></g>
+									<g transform="rotate(0) translate(63,-1.5)"><rect id="CusTheAns0" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(0)"/></g>
+									<g transform="rotate(5) translate(68,-1.5)"><rect id="CusTheAnsN5" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-5)"/></g>
+									<g transform="rotate(10) translate(68,-1.5)"><rect id="CusTheAnsN10" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-10)"/></g>
+									<g transform="rotate(15) translate(63,-1.5)"><rect id="CusTheAnsN15" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(-15)"/></g>
+									<g transform="rotate(20) translate(68,-1.5)"><rect id="CusTheAnsN20" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-20)"/></g>
+									<g transform="rotate(25) translate(68,-1.5)"><rect id="CusTheAnsN25" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-25)"/></g>
+									<g transform="rotate(30) translate(63,-1.5)"><rect id="CusTheAnsN30" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(-30)"/></g>
+									<g transform="rotate(35) translate(68,-1.5)"><rect id="CusTheAnsN35" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-35)"/></g>
+									<g transform="rotate(40) translate(68,-1.5)"><rect id="CusTheAnsN40" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-40)"/></g>
+									<g transform="rotate(45) translate(63,-1.5)"><rect id="CusTheAnsN45" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(-45)"/></g>
+									<g transform="rotate(50) translate(68,-1.5)"><rect id="CusTheAnsN50" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-50)"/></g>
+									<g transform="rotate(55) translate(68,-1.5)"><rect id="CusTheAnsN55" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-55)"/></g>
+									<g transform="rotate(60) translate(63,-1.5)"><rect id="CusTheAnsN60" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(-60)"/></g>
+									<g transform="rotate(65) translate(68,-1.5)"><rect id="CusTheAnsN65" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-65)"/></g>
+									<g transform="rotate(70) translate(68,-1.5)"><rect id="CusTheAnsN70" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-70)"/></g>
+									<g transform="rotate(75) translate(63,-1.5)"><rect id="CusTheAnsN75" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(-75)"/></g>
+									<g transform="rotate(80) translate(68,-1.5)"><rect id="CusTheAnsN80" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-80)"/></g>
+									<g transform="rotate(85) translate(68,-1.5)"><rect id="CusTheAnsN85" class="svgrectbut" width="9" height="3" onclick="handleCusTheAnsSet(-85)"/></g>
+									<g transform="rotate(90) translate(63,-1.5)"><rect id="CusTheAnsN90" class="svgrectbut" width="14" height="3" onclick="handleCusTheAnsSet(-90)"/></g>
+								</g>
+								<g id="theveh" transform="translate(0,30)">
+									<line class="svgguide" x1="-50" y1="0" x2="50" y2="0"/>
+									<line class="svgguide" x1="0" y1="-50" x2="0" y2="0"/>
+									<circle class="svgguide" cx="-50" cy="0" r="8"/>
+									<circle class="svgguide" cx="50" cy="0" r="8"/>
+									<path class="svgguide" d="M30 -20 L50 -20 M45 -25 L50 -20 L45 -15"/>
+								</g>
+								<g id="CusTheCam" transform="rotate(-17)">
+									<circle cx="0" cy="0" r="1" stroke="black" stroke-width="1" fill="black"/>
+									<path d="M-8 -4 L-8 4 L8 4 L8 -4 L-8 -4" stroke="black" stroke-width="1" fill="none"/>
+									<path d="M8 4 L12 8 L12 -8 L8 -4" stroke="black" stroke-width="1" fill="none"/>
+									<line x1="15" y1="0" x2="60" y2="0" stroke="black" stroke-width="1"/>
+								</g>
+								<text id="TxtTheRpm" class="svgannotm" x="-28" y="-5" text-anchor="end">TxtTheRpm</text>
+								<circle id="CsiTheSte" style="fill:limegreen" cx="-18" cy="-8" r="3"/>
+								<text id="TxtTheAng" class="svgannotm" x="-15" y="10" text-anchor="end">TxtTheAng</text>
+							</g>
+							<g transform="translate(450,75)">
+								<g id="ButTheCcw" class="upd" onclick="handleButTheCcwClick()">
+									<rect x="-8" y="-14" width="16" height="7" fill="white" stroke="none"/>
+									<path d="M-8 -10 L0 -14 L8 -10 M-8 -7 L0 -11 L8 -7" fill="none" stroke-width="1"/>
+								</g>
+								<g id="ButTheCcwst" class="upd" onmousedown="handleButTheCcwstMdn()" onmouseup="handleButTheCcwstMup()">
+									<rect x="-8" y="-6" width="16" height="4" fill="white" stroke="none"/>
+									<path d="M-8 -2 L0 -6 L8 -2" fill="none" stroke-width="1"/>
+								</g>
+								<g id="ButTheCwst" class="upd" onmousedown="handleButTheCwstMdn()" onmouseup="handleButTheCwstMup()">
+									<rect x="-8" y="2" width="16" height="4" fill="white" stroke="none"/>
+									<path d="M-8 2 L0 6 L8 2" fill="none" stroke-width="1"/>
+								</g>
+								<g id="ButTheCw" class="upd" onclick="handleButTheCwClick()">
+									<rect x="-8" y="7" width="16" height="7" fill="white" stroke="none"/>
+									<path d="M-8 7 L0 11 L8 7 M-8 10 L0 14 L8 10" fill="none" stroke-width="1"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+<!-- IP trThe - REND -->
+				</tr>
+				<tr id="trTgr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptTgr" class="cpt">CptTgr</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfTgr" class="txfs" type="text" value="TxfTgr" onchange="handleTxfTgrChange()" onkeypress="return handleTxfTgrKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trTll" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptTll" class="cpt">CptTll</span>
+					</td>
+					<td></td>
+					<td id="tdSldTll" colspan="5">
+						<svg class="svg" width="340" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<line class="sldlinact" x1="0" y1="12.5" x2="5" y2="12.5"/>
+							<line class="sldlinact" x1="335" y1="12.5" x2="340" y2="12.5"/>
+							<g id="SldTllJpleft" class="sld" onmouseover="handleSldTllJpleftMov()" onmouseout="handleSldTllJpleftMou()" onclick="handleSldTllJpleftClick(event)">
+								<rect id="SldTllJpleftr" class="sldr" x="5" y="2" width="165" height="18"/>
+								<line id="SldTllJpleftl" class="sldl" x1="5" y1="12.5" x2="167.5" y2="12.5"/>
+							</g>
+							<g id="SldTllJpright" class="sld" onmouseover="handleSldTllJprightMov()" onmouseout="handleSldTllJprightMou()" onclick="handleSldTllJprightClick(event)">
+								<rect id="SldTllJprightr" class="sldr" x="170" y="2" width="165" height="18"/>
+								<line id="SldTllJprightl" class="sldl" x1="172.5" y1="12.5" x2="335" y2="12.5"/>
+							</g>
+							<g id="SldTll" class="sld" transform="translate(170 0)" onmouseover="handleSldTllMov()" onmouseout="handleSldTllMou()" onmousedown="handleSldTllMdn()">
+								<rect id="SldTllR" class="sldr" x="-3" y="2" width="6" height="21"/>
+								<g id="SldTllBar" class="sldl">
+									<line x1="-2" y1="2" x2="-2" y2="23"/>
+									<line x1="2" y1="2" x2="2" y2="23"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<input id="SldTllVal" class="txfxs" type="text" value="SldTllVal" onchange="handleSldTllValChange()" onkeypress="return handleSldTllValKey(event)"/>
+					</td>
+				</tr>
+				<tr id="trTul" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptTul" class="cpt">CptTul</span>
+					</td>
+					<td></td>
+					<td id="tdSldTul" colspan="5">
+						<svg class="svg" width="340" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<line class="sldlinact" x1="0" y1="12.5" x2="5" y2="12.5"/>
+							<line class="sldlinact" x1="335" y1="12.5" x2="340" y2="12.5"/>
+							<g id="SldTulJpleft" class="sld" onmouseover="handleSldTulJpleftMov()" onmouseout="handleSldTulJpleftMou()" onclick="handleSldTulJpleftClick(event)">
+								<rect id="SldTulJpleftr" class="sldr" x="5" y="2" width="165" height="18"/>
+								<line id="SldTulJpleftl" class="sldl" x1="5" y1="12.5" x2="167.5" y2="12.5"/>
+							</g>
+							<g id="SldTulJpright" class="sld" onmouseover="handleSldTulJprightMov()" onmouseout="handleSldTulJprightMou()" onclick="handleSldTulJprightClick(event)">
+								<rect id="SldTulJprightr" class="sldr" x="170" y="2" width="165" height="18"/>
+								<line id="SldTulJprightl" class="sldl" x1="172.5" y1="12.5" x2="335" y2="12.5"/>
+							</g>
+							<g id="SldTul" class="sld" transform="translate(170 0)" onmouseover="handleSldTulMov()" onmouseout="handleSldTulMou()" onmousedown="handleSldTulMdn()">
+								<rect id="SldTulR" class="sldr" x="-3" y="2" width="6" height="21"/>
+								<g id="SldTulBar" class="sldl">
+									<line x1="-2" y1="2" x2="-2" y2="23"/>
+									<line x1="2" y1="2" x2="2" y2="23"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<input id="SldTulVal" class="txfxs" type="text" value="SldTulVal" onchange="handleSldTulValChange()" onkeypress="return handleSldTulValKey(event)"/>
+					</td>
+				</tr>
+				<tr id="tr21" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr22" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr23" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trPhiax" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgPhiax" class="cpt">HdgPhiax</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trPhi" class="show">
+<!-- IP trPhi - RBEGIN -->
+					<td height="150" colspan="11">
+						<svg width="690px" height="150px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<g id="phi" transform="translate(300,75)">
+								<g id="CusPhiAns">
+									<g transform="rotate(-180) translate(63,-1.5)"><rect id="CusPhiAns180" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(90)"/></g>
+									<g transform="rotate(-175) translate(68,-1.5)"><rect id="CusPhiAns175" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(85)"/></g>
+									<g transform="rotate(-170) translate(68,-1.5)"><rect id="CusPhiAns170" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(80)"/></g>
+									<g transform="rotate(-165) translate(63,-1.5)"><rect id="CusPhiAns165" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(75)"/></g>
+									<g transform="rotate(-160) translate(68,-1.5)"><rect id="CusPhiAns160" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(70)"/></g>
+									<g transform="rotate(-155) translate(68,-1.5)"><rect id="CusPhiAns155" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(65)"/></g>
+									<g transform="rotate(-150) translate(63,-1.5)"><rect id="CusPhiAns150" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(60)"/></g>
+									<g transform="rotate(-145) translate(68,-1.5)"><rect id="CusPhiAns145" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(55)"/></g>
+									<g transform="rotate(-140) translate(68,-1.5)"><rect id="CusPhiAns140" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(50)"/></g>
+									<g transform="rotate(-135) translate(63,-1.5)"><rect id="CusPhiAns135" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(45)"/></g>
+									<g transform="rotate(-130) translate(68,-1.5)"><rect id="CusPhiAns130" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(40)"/></g>
+									<g transform="rotate(-125) translate(68,-1.5)"><rect id="CusPhiAns125" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(35)"/></g>
+									<g transform="rotate(-120) translate(63,-1.5)"><rect id="CusPhiAns120" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(30)"/></g>
+									<g transform="rotate(-115) translate(68,-1.5)"><rect id="CusPhiAns115" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(25)"/></g>
+									<g transform="rotate(-110) translate(68,-1.5)"><rect id="CusPhiAns110" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(20)"/></g>
+									<g transform="rotate(-105) translate(63,-1.5)"><rect id="CusPhiAns105" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(15)"/></g>
+									<g transform="rotate(-100) translate(68,-1.5)"><rect id="CusPhiAns100" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(10)"/></g>
+									<g transform="rotate(-95) translate(68,-1.5)"><rect id="CusPhiAns95" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(5)"/></g>
+									<g transform="rotate(-90) translate(63,-1.5)"><rect id="CusPhiAns90" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(0)"/></g>
+									<g transform="rotate(-85) translate(68,-1.5)"><rect id="CusPhiAns85" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-5)"/></g>
+									<g transform="rotate(-80) translate(68,-1.5)"><rect id="CusPhiAns80" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-10)"/></g>
+									<g transform="rotate(-75) translate(63,-1.5)"><rect id="CusPhiAns75" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(-15)"/></g>
+									<g transform="rotate(-70) translate(68,-1.5)"><rect id="CusPhiAns70" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-20)"/></g>
+									<g transform="rotate(-65) translate(68,-1.5)"><rect id="CusPhiAns65" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-25)"/></g>
+									<g transform="rotate(-60) translate(63,-1.5)"><rect id="CusPhiAns60" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(-30)"/></g>
+									<g transform="rotate(-55) translate(68,-1.5)"><rect id="CusPhiAns55" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-35)"/></g>
+									<g transform="rotate(-50) translate(68,-1.5)"><rect id="CusPhiAns50" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-40)"/></g>
+									<g transform="rotate(-45) translate(63,-1.5)"><rect id="CusPhiAns45" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(-45)"/></g>
+									<g transform="rotate(-40) translate(68,-1.5)"><rect id="CusPhiAns40" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-50)"/></g>
+									<g transform="rotate(-35) translate(68,-1.5)"><rect id="CusPhiAns35" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-55)"/></g>
+									<g transform="rotate(-30) translate(63,-1.5)"><rect id="CusPhiAns30" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(-60)"/></g>
+									<g transform="rotate(-25) translate(68,-1.5)"><rect id="CusPhiAns25" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-65)"/></g>
+									<g transform="rotate(-20) translate(68,-1.5)"><rect id="CusPhiAns20" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-70)"/></g>
+									<g transform="rotate(-15) translate(63,-1.5)"><rect id="CusPhiAns15" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(-75)"/></g>
+									<g transform="rotate(-10) translate(68,-1.5)"><rect id="CusPhiAns10" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-80)"/></g>
+									<g transform="rotate(-5) translate(68,-1.5)"><rect id="CusPhiAns5" class="svgrectbut" width="9" height="3" onclick="handleCusPhiAnsSet(-85)"/></g>
+									<g transform="rotate(0) translate(63,-1.5)"><rect id="CusPhiAns0" class="svgrectbut" width="14" height="3" onclick="handleCusPhiAnsSet(-90)"/></g>
+								</g>
+								<g id="phiveh" transform="translate(0,0)">
+									<line class="svgguide" x1="-50" y1="-50" x2="50" y2="-50"/>
+									<path class="svgguide" d="M-55 -58 L-45 -58 L-45 -42 L-55 -42 L-55 -58"/>
+									<path class="svgguide" d="M55 -58 L45 -58 L45 -42 L55 -42 L55 -58"/>
+									<line class="svgguide" x1="-50" y1="50" x2="50" y2="50"/>
+									<path class="svgguide" d="M-55 58 L-45 58 L-45 42 L-55 42 L-55 58"/>
+									<path class="svgguide" d="M55 58 L45 58 L45 42 L55 42 L55 58"/>
+									<line class="svgguide" x1="0" y1="-50" x2="0" y2="50"/>
+									<path class="svgguide" d="M50 -10 L50 -30 M45 -25 L50 -30 L55 -25"/>
+								</g>
+								<g id="CusPhiCam" transform="rotate(43)">
+									<circle cx="0" cy="0" r="1" stroke="black" stroke-width="1" fill="black"/>
+									<path d="M-4 -8 L4 -8 L4 8 L-4 8 L-4 -8" stroke="black" stroke-width="1" fill="none"/>
+									<path d="M-4 -8 L-8 -12 L8 -12 L4 -8" stroke="black" stroke-width="1" fill="none"/>
+									<line x1="0" y1="-15" x2="0" y2="-60" stroke="black" stroke-width="1"/>
+								</g>
+								<text id="TxtPhiRpm" class="svgannotm" x="-18" y="29" text-anchor="end">TxtPhiRpm</text>
+								<circle id="CsiPhiSte" style="fill:limegreen" cx="-8" cy="26" r="3"/>
+								<text id="TxtPhiAng" class="svgannotm" x="5" y="30">TxtPhiAng</text>
+							</g>
+							<g transform="translate(450,75)">
+								<g id="ButPhiCcw" class="upd" onclick="handleButPhiCcwClick()">
+									<rect x="-14" y="-8" width="7" height="16" fill="white" stroke="none"/>
+									<path d="M-10 -8 L-14 0 L-10 8 M-7 -8 L-11 0 L-7 8" fill="none" stroke-width="1"/>
+								</g>
+								<g id="ButPhiCcwst" class="upd" onmousedown="handleButPhiCcwstMdn()" onmouseup="handleButPhiCcwstMup()">
+									<rect x="-6" y="-8" width="4" height="16" fill="white" stroke="none"/>
+									<path d="M-2 -8 L-6 0 L-2 8" fill="none" stroke-width="1"/>
+								</g>
+								<g id="ButPhiCwst" class="upd" onmousedown="handleButPhiCwstMdn()" onmouseup="handleButPhiCwstMup()">
+									<rect x="2" y="-8" width="4" height="16" fill="white" stroke="none"/>
+									<path d="M2 -8 L6 0 L2 8" fill="none" stroke-width="1"/>
+								</g>
+								<g id="ButPhiCw" class="upd" onclick="handleButPhiCwClick()">
+									<rect x="7" y="-8" width="7" height="16" fill="white" stroke="none"/>
+									<path d="M7 -8 L11 0 L7 8 M10 -8 L14 0 L10 8" fill="none" stroke-width="1"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+<!-- IP trPhi - REND -->
+				</tr>
+				<tr id="trPgr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptPgr" class="cpt">CptPgr</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfPgr" class="txfs" type="text" value="TxfPgr" onchange="handleTxfPgrChange()" onkeypress="return handleTxfPgrKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trPll" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptPll" class="cpt">CptPll</span>
+					</td>
+					<td></td>
+					<td id="tdSldPll" colspan="5">
+						<svg class="svg" width="340" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<line class="sldlinact" x1="0" y1="12.5" x2="5" y2="12.5"/>
+							<line class="sldlinact" x1="335" y1="12.5" x2="340" y2="12.5"/>
+							<g id="SldPllJpleft" class="sld" onmouseover="handleSldPllJpleftMov()" onmouseout="handleSldPllJpleftMou()" onclick="handleSldPllJpleftClick(event)">
+								<rect id="SldPllJpleftr" class="sldr" x="5" y="2" width="165" height="18"/>
+								<line id="SldPllJpleftl" class="sldl" x1="5" y1="12.5" x2="167.5" y2="12.5"/>
+							</g>
+							<g id="SldPllJpright" class="sld" onmouseover="handleSldPllJprightMov()" onmouseout="handleSldPllJprightMou()" onclick="handleSldPllJprightClick(event)">
+								<rect id="SldPllJprightr" class="sldr" x="170" y="2" width="165" height="18"/>
+								<line id="SldPllJprightl" class="sldl" x1="172.5" y1="12.5" x2="335" y2="12.5"/>
+							</g>
+							<g id="SldPll" class="sld" transform="translate(170 0)" onmouseover="handleSldPllMov()" onmouseout="handleSldPllMou()" onmousedown="handleSldPllMdn()">
+								<rect id="SldPllR" class="sldr" x="-3" y="2" width="6" height="21"/>
+								<g id="SldPllBar" class="sldl">
+									<line x1="-2" y1="2" x2="-2" y2="23"/>
+									<line x1="2" y1="2" x2="2" y2="23"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<input id="SldPllVal" class="txfxs" type="text" value="SldPllVal" onchange="handleSldPllValChange()" onkeypress="return handleSldPllValKey(event)"/>
+					</td>
+				</tr>
+				<tr id="trPul" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptPul" class="cpt">CptPul</span>
+					</td>
+					<td></td>
+					<td id="tdSldPul" colspan="5">
+						<svg class="svg" width="340" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<line class="sldlinact" x1="0" y1="12.5" x2="5" y2="12.5"/>
+							<line class="sldlinact" x1="335" y1="12.5" x2="340" y2="12.5"/>
+							<g id="SldPulJpleft" class="sld" onmouseover="handleSldPulJpleftMov()" onmouseout="handleSldPulJpleftMou()" onclick="handleSldPulJpleftClick(event)">
+								<rect id="SldPulJpleftr" class="sldr" x="5" y="2" width="165" height="18"/>
+								<line id="SldPulJpleftl" class="sldl" x1="5" y1="12.5" x2="167.5" y2="12.5"/>
+							</g>
+							<g id="SldPulJpright" class="sld" onmouseover="handleSldPulJprightMov()" onmouseout="handleSldPulJprightMou()" onclick="handleSldPulJprightClick(event)">
+								<rect id="SldPulJprightr" class="sldr" x="170" y="2" width="165" height="18"/>
+								<line id="SldPulJprightl" class="sldl" x1="172.5" y1="12.5" x2="335" y2="12.5"/>
+							</g>
+							<g id="SldPul" class="sld" transform="translate(170 0)" onmouseover="handleSldPulMov()" onmouseout="handleSldPulMou()" onmousedown="handleSldPulMdn()">
+								<rect id="SldPulR" class="sldr" x="-3" y="2" width="6" height="21"/>
+								<g id="SldPulBar" class="sldl">
+									<line x1="-2" y1="2" x2="-2" y2="23"/>
+									<line x1="2" y1="2" x2="2" y2="23"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<input id="SldPulVal" class="txfxs" type="text" value="SldPulVal" onchange="handleSldPulValChange()" onkeypress="return handleSldPulValKey(event)"/>
+					</td>
+				</tr>
+				<tr><td colspan="11" height="4"></td></tr>
+			</tbody>
+		</form></table>
+	</body>
+</html>
+
+

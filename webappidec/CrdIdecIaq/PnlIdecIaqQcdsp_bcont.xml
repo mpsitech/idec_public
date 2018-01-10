@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<head>
+		<title>Qcdsp_bcont</title>
+		<script>
+			function handlePupModChange() {parent.parent.window.handlePupChange(document,"PupMod","");};
+			function handleButImgShowClick() {parent.parent.window.handleButImgShowClick();};
+			function handleSldTinJpleftMov() {parent.parent.window.handleSldJpleftMov(document,"SldTin");};
+			function handleSldTinJpleftMou() {parent.parent.window.handleSldJpleftMou(document,"SldTin");};
+			function handleSldTinJpleftClick(evt) {parent.parent.window.handleSldJpleftClick(document,"SldTin",true,true,true,evt);};
+			function handleSldTinJprightMov() {parent.parent.window.handleSldJprightMov(document,"SldTin");};
+			function handleSldTinJprightMou() {parent.parent.window.handleSldJprightMou(document,"SldTin");};
+			function handleSldTinJprightClick(evt) {parent.parent.window.handleSldJprightClick(document,"SldTin",true,true,true,evt);};
+			function handleSldTinMov() {parent.parent.window.handleSldMov(document,"SldTin");};
+			function handleSldTinMou() {parent.parent.window.handleSldMou(document,"SldTin");};
+			function handleSldTinMdn() {parent.parent.window.handleSldMdn(document,"SldTin");};
+			function handleSldTinMove(evt) {parent.parent.window.handleSldMove(document,"SldTin",true,true,true,evt);};
+			function handleSldTinMup() {parent.parent.window.handleSldMup(document,"SldTin",true);};
+			function handleSldTinValKey(evt) {return parent.parent.window.handleSldValKey(document,"SldTin",true,true,true,evt);};
+			function handleSldTinValChange() {parent.parent.window.handleSldValChange(document,"SldTin",true,true,true);};
+			<!-- IP custScript - IBEGIN -->
+			function handleCusImgPxsSet(pixel) {parent.parent.window.handleCusImgPxsSet(pixel);};
+			<!-- IP custScript - IEND -->
+		</script>
+		<link href="../style/pnlDetail3_2.css" rel="styleSheet" type="text/css"/>
+		<!-- IP custStyle - IBEGIN -->
+		<link href="../style/idec.css" rel="styleSheet" type="text/css"/>
+		<!-- IP custStyle - IEND -->
+	</head>
+	<body marginwidth="0" marginheight="0">
+		<table cellspacing="0" border="0" cellpadding="0"><form action="">
+			<colgroup>
+				<col width="5"/>
+				<col width="215"/>
+				<col width="5"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="68"/>
+				<col width="2"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="1"/>
+				<col width="114"/>
+			</colgroup>
+			<tbody id="tbl">
+				<tr><td colspan="11" height="5"></td></tr>
+				<tr id="trMod" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptMod" class="cpt">CptMod</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupMod" class="pup" size="1" onchange="handlePupModChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trImg" class="show">
+					<!-- IP trImg - RBEGIN -->
+					<div id="lwirarr" style="z-index:-1;position:absolute;display:block;top:30px;left:80px;width:240px;height:240px;background-color:#ffffff;">
+						<canvas style="display:block;cursor:pointer" id="cvs" width="240" height="240">This page needs a web-browser capable of displaying canvasses!</canvas>
+					</div>
+					<td height="240" colspan="11">
+						<svg width="690px" height="240px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<g id="lwirscale" transform="translate(55,40)">
+								<text class="svgannotm" x="-12" y="-15">T<tspan class="svgannots" baseline-shift="sub">LWIR</tspan></text>
+
+								<text id="TxtImgIsu" class="svgannotm" x="-15" y="8" text-anchor="end">TxtImgIsu</text>
+								<text id="TxtImgIsc" class="svgannotm" x="-15" y="83" text-anchor="end">TxtImgIsc</text>
+								<text id="TxtImgIsl" class="svgannotm" x="-15" y="158" text-anchor="end">TxtImgIsl</text>
+
+								<rect x="-8" y="0" width="16" height="10" stroke="none" fill="#ffffff"/>
+								<rect x="-8" y="10" width="16" height="10" stroke="none" fill="#eeeeee"/>
+								<rect x="-8" y="20" width="16" height="10" stroke="none" fill="#dddddd"/>
+								<rect x="-8" y="30" width="16" height="10" stroke="none" fill="#cccccc"/>
+								<rect x="-8" y="40" width="16" height="10" stroke="none" fill="#bbbbbb"/>
+								<rect x="-8" y="50" width="16" height="10" stroke="none" fill="#aaaaaa"/>
+								<rect x="-8" y="60" width="16" height="10" stroke="none" fill="#999999"/>
+								<rect x="-8" y="70" width="16" height="10" stroke="none" fill="#888888"/>
+								<rect x="-8" y="80" width="16" height="10" stroke="none" fill="#777777"/>
+								<rect x="-8" y="90" width="16" height="10" stroke="none" fill="#666666"/>
+								<rect x="-8" y="100" width="16" height="10" stroke="none" fill="#555555"/>
+								<rect x="-8" y="110" width="16" height="10" stroke="none" fill="#444444"/>
+								<rect x="-8" y="120" width="16" height="10" stroke="none" fill="#333333"/>
+								<rect x="-8" y="130" width="16" height="10" stroke="none" fill="#222222"/>
+								<rect x="-8" y="140" width="16" height="10" stroke="none" fill="#111111"/>
+								<rect x="-8" y="150" width="16" height="10" stroke="none" fill="#000000"/>
+							</g>
+
+							<g id="qcdscale" transform="translate(345,50)">
+								<text class="svgannotm" x="-23" y="-35">T<tspan class="svgannots" baseline-shift="sub">QCD</tspan>-T<tspan class="svgannots" baseline-shift="sub">LWIR</tspan></text>
+								<line x1="-23" y1="-25.5" x2="28" y2="-25.5" stroke="black" stroke-width="1"/>
+								<text class="svgannotm" x="-7" y="-15">T<tspan class="svgannots" baseline-shift="sub">LWIR</tspan></text>
+
+								<text id="TxtImgQsu" class="svgannotm" x="15" y="8">TxtImgQsu</text>
+								<text id="TxtImgQsc" class="svgannotm" x="15" y="83">0%</text>
+								<text id="TxtImgQsl" class="svgannotm" x="15" y="158">TxtImgQsl</text>
+
+								<circle id="CsiImgSte" style="fill:limegreen" cx="-17" cy="176" r="3"/>
+
+								<text id="ButImgShow" class="svgtxtbut" x="20" y="180" text-anchor="middle" onclick="handleButImgShowClick()">ButImgShow</text>
+
+								<rect x="-8" y="0" width="16" height="10" stroke="none" fill="#ff0000"/>
+								<rect x="-8" y="10" width="16" height="10" stroke="none" fill="#ff4400"/>
+								<rect x="-8" y="20" width="16" height="10" stroke="none" fill="#ff8800"/>
+								<rect x="-8" y="30" width="16" height="10" stroke="none" fill="#ffcc00"/>
+								<rect x="-8" y="40" width="16" height="10" stroke="none" fill="#eeff00"/>
+								<rect x="-8" y="50" width="16" height="10" stroke="none" fill="#aaff00"/>
+								<rect x="-8" y="60" width="16" height="10" stroke="none" fill="#66ff00"/>
+								<rect x="-8" y="70" width="16" height="10" stroke="none" fill="#22ff00"/>
+								<rect x="-8" y="80" width="16" height="10" stroke="none" fill="#00ff22"/>
+								<rect x="-8" y="90" width="16" height="10" stroke="none" fill="#00ff66"/>
+								<rect x="-8" y="100" width="16" height="10" stroke="none" fill="#00ffaa"/>
+								<rect x="-8" y="110" width="16" height="10" stroke="none" fill="#00ffee"/>
+								<rect x="-8" y="120" width="16" height="10" stroke="none" fill="#00ccff"/>
+								<rect x="-8" y="130" width="16" height="10" stroke="none" fill="#0088ff"/>
+								<rect x="-8" y="140" width="16" height="10" stroke="none" fill="#0044ff"/>
+								<rect x="-8" y="150" width="16" height="10" stroke="none" fill="#0000ff"/>
+							</g>
+
+							<g id="CusImgPxs" transform="translate(200,120)">
+							</g>
+
+							<g id="chart" transform="translate(440,0)">
+								<path class="svgsolid" d="M-5 220 L250 220 M247 217 L250 220 L247 223"/>
+								<text class="svgannotm" x="60" y="235" text-anchor="middle">5</text>
+								<path class="svgsolid" d="M60 215 L60 220"/>
+								<text class="svgannotm" x="120" y="235" text-anchor="middle">10</text>
+								<path class="svgsolid" d="M120 215 L120 220"/>
+								<text class="svgannotm" x="180" y="235" text-anchor="middle">15</text>
+								<path class="svgsolid" d="M180 215 L180 220"/>
+								<text class="svgannotm" x="240" y="235" text-anchor="middle">20</text>
+								<path class="svgsolid" d="M240 215 L240 220"/>
+
+								<path class="svgsolid" d="M0 225 L0 25 M-3 28 L0 25 L3 28"/>
+								<text class="svgannotm" x="-5" y="179" text-anchor="end">0.025</text>
+								<path class="svgsolid" d="M0 175 L5 175"/>
+								<text class="svgannotm" x="-5" y="134" text-anchor="end">0.05</text>
+								<path class="svgsolid" d="M0 130 L5 130"/>
+								<text class="svgannotm" x="-5" y="89" text-anchor="end">0.075</text>
+								<path class="svgsolid" d="M0 85 L5 85"/>
+								<text class="svgannotm" x="-5" y="44" text-anchor="end">0.1</text>
+								<path class="svgsolid" d="M0 40 L5 40"/>
+								
+								<text class="svgannotm" x="-3" y="18">S[kW/m&#178;/&#956;m]</text>
+								<text class="svgannotm" x="250" y="210" text-anchor="end">&#955;[&#956;m]</text>
+
+								<text class="svgannotm" x="250" y="50" text-anchor="end">T<tspan class="svgannots" baseline-shift="sub">LWIR</tspan><tspan id="TxtImgTlw">TxtImgTlw</tspan></text>
+								<text class="svgannotmhlt" x="250" y="70" text-anchor="end">T<tspan class="svgannotshlt" baseline-shift="sub">QCD</tspan><tspan id="TxtImgTqc">TxtImgTqc</tspan></text>
+
+								<path id="CusImgFlwir" class="svgfill" d="M6 0 L240 0"/>
+								<path id="CusImgFqcd" class="svgfillhlt" d="M6 0 L240 0"/>
+
+								<path id="CusImgMlwir" class="svgsolid" d="M6 0 L240 0"/>
+								<path id="CusImgMqcd" class="svghlt" d="M6 0 L240 0"/>
+							</g>
+						</svg>
+					</td>
+					<!-- IP trImg - REND -->
+				</tr>
+				<tr id="trTin" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptTin" class="cpt">CptTin</span>
+					</td>
+					<td></td>
+					<td id="tdSldTin" colspan="5">
+						<svg class="svg" width="340" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<line class="sldlinact" x1="0" y1="12.5" x2="5" y2="12.5"/>
+							<line class="sldlinact" x1="335" y1="12.5" x2="340" y2="12.5"/>
+							<g id="SldTinJpleft" class="sld" onmouseover="handleSldTinJpleftMov()" onmouseout="handleSldTinJpleftMou()" onclick="handleSldTinJpleftClick(event)">
+								<rect id="SldTinJpleftr" class="sldr" x="5" y="2" width="165" height="18"/>
+								<line id="SldTinJpleftl" class="sldl" x1="5" y1="12.5" x2="167.5" y2="12.5"/>
+							</g>
+							<g id="SldTinJpright" class="sld" onmouseover="handleSldTinJprightMov()" onmouseout="handleSldTinJprightMou()" onclick="handleSldTinJprightClick(event)">
+								<rect id="SldTinJprightr" class="sldr" x="170" y="2" width="165" height="18"/>
+								<line id="SldTinJprightl" class="sldl" x1="172.5" y1="12.5" x2="335" y2="12.5"/>
+							</g>
+							<g id="SldTin" class="sld" transform="translate(170 0)" onmouseover="handleSldTinMov()" onmouseout="handleSldTinMou()" onmousedown="handleSldTinMdn()">
+								<rect id="SldTinR" class="sldr" x="-3" y="2" width="6" height="21"/>
+								<g id="SldTinBar" class="sldl">
+									<line x1="-2" y1="2" x2="-2" y2="23"/>
+									<line x1="2" y1="2" x2="2" y2="23"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<input id="SldTinVal" class="txfxs" type="text" value="SldTinVal" onchange="handleSldTinValChange()" onkeypress="return handleSldTinValKey(event)"/>
+					</td>
+				</tr>
+				<tr><td colspan="11" height="4"></td></tr>
+			</tbody>
+		</form></table>
+	</body>
+</html>
+
+

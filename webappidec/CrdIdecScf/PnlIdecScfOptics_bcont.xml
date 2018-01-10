@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<head>
+		<title>Optics_bcont</title>
+		<script>
+			function handleTxfDstKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfDst","s",evt);};
+			function handleTxfDstChange() {parent.parent.window.handleTxfChange(document,"TxfDst","s");};
+			function handleTxfIdxKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfIdx","s",evt);};
+			function handleTxfIdxChange() {parent.parent.window.handleTxfChange(document,"TxfIdx","s");};
+			function handleTxfIdyKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfIdy","s",evt);};
+			function handleTxfIdyChange() {parent.parent.window.handleTxfChange(document,"TxfIdy","s");};
+			function handleTxfQdxKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfQdx","s",evt);};
+			function handleTxfQdxChange() {parent.parent.window.handleTxfChange(document,"TxfQdx","s");};
+			function handleTxfQdyKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfQdy","s",evt);};
+			function handleTxfQdyChange() {parent.parent.window.handleTxfChange(document,"TxfQdy","s");};
+			function handleTxfAdxKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfAdx","s",evt);};
+			function handleTxfAdxChange() {parent.parent.window.handleTxfChange(document,"TxfAdx","s");};
+			function handleTxfAdyKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfAdy","s",evt);};
+			function handleTxfAdyChange() {parent.parent.window.handleTxfChange(document,"TxfAdy","s");};
+			function handlePupLsgChange() {parent.parent.window.handlePupChange(document,"PupLsg","s");};
+			function handlePupRsgChange() {parent.parent.window.handlePupChange(document,"PupRsg","s");};
+			function handlePupIsgChange() {parent.parent.window.handlePupChange(document,"PupIsg","s");};
+			function handleUpdQwhValKey(evt) {return parent.parent.window.handleUpdValKey(document,"UpdQwh",true,evt);};
+			function handleUpdQwhValChange() {parent.parent.window.handleUpdValChange(document,"UpdQwh",true);};
+			function handleUpdQwhUpClick() {parent.parent.window.handleUpdUpClick(document,"UpdQwh",true);};
+			function handleUpdQwhDownClick() {parent.parent.window.handleUpdDownClick(document,"UpdQwh",true);};
+			function handleTxfQhpKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfQhp","s",evt);};
+			function handleTxfQhpChange() {parent.parent.window.handleTxfChange(document,"TxfQhp","s");};
+			function handleTxfQdpKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfQdp","s",evt);};
+			function handleTxfQdpChange() {parent.parent.window.handleTxfChange(document,"TxfQdp","s");};
+			function handleTxfQflKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfQfl","s",evt);};
+			function handleTxfQflChange() {parent.parent.window.handleTxfChange(document,"TxfQfl","s");};
+			function handleTxfQfnKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfQfn","s",evt);};
+			function handleTxfQfnChange() {parent.parent.window.handleTxfChange(document,"TxfQfn","s");};
+			function handlePupQsgChange() {parent.parent.window.handlePupChange(document,"PupQsg","s");};
+			<!-- IP custScript - INSERT -->
+		</script>
+		<link href="../style/pnlDetail3_2.css" rel="styleSheet" type="text/css"/>
+<!-- IP custStyle - IBEGIN -->
+		<link href="../style/idec.css" rel="styleSheet" type="text/css"/>
+<!-- IP custStyle - IEND -->
+	</head>
+	<body marginwidth="0" marginheight="0">
+		<table cellspacing="0" border="0" cellpadding="0"><form action="">
+			<colgroup>
+				<col width="5"/>
+				<col width="215"/>
+				<col width="5"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="68"/>
+				<col width="2"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="1"/>
+				<col width="114"/>
+			</colgroup>
+			<tbody id="tbl">
+				<tr><td colspan="11" height="5"></td></tr>
+				<tr id="trGeom" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgGeom" class="cpt">HdgGeom</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trGeo" class="show">
+<!-- IP trGeo - RBEGIN -->
+					<td height="240" colspan="11">
+						<svg width="690px" height="240px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<g transform="translate(349.5,120)">
+								<path class="svgguide" d="M-200 -120 L200 -120 L200 120 L-200 120 L-200 -120"/>
+								<g id="geo">
+									<path id="CusGeoLds" class="svgguide" d="M-155 -80 L0 -80 M-155 -85 L-155 -75 M0 -85 L0 -75"/>
+									<text id="CptGeoLds" class="svgannots" x="-80" y="-85">&#916;s/2</text>
+									<path id="CusGeoRds" class="svgguide" d="M155 -80 L0 -80 M155 -85 L155 -75 M0 -85 L0 -75"/>
+									<text id="CptGeoRds" class="svgannots" x="65" y="-85">&#916;s/2</text>
+									<path id="CusGeoIdx" class="svgguide" d="M-110 53 L0 53 M-110 48 L-110 58 M0 48 L0 58"/>
+									<text id="CptGeoIdx" class="svgannots" x="-65" y="48">&#916;xLWIR</text>
+									<path id="CusGeoIdy" class="svgguide" d="M0 -80 L0 53 M-5 -80 L5 -80 M-5 53 L5 53"/>
+									<text id="CptGeoIdy" class="svgannots" x="-5" y="10" transform="rotate(-90 -5,10)">&#916;yLWIR</text>
+									<path id="CusGeoQdx" class="svgguide" d="M55 10 L0 10 M55 5 L55 15 M0 5 L0 15"/>
+									<text id="CptGeoQdx" class="svgannots" x="15" y="20">&#916;xQCD</text>
+									<path id="CusGeoQdy" class="svgguide" d="M0 -80 L0 10 M-5 -80 L5 -80 M-5 10 L5 10"/>
+									<text id="CptGeoQdy" class="svgannots" x="10" y="-20" transform="rotate(-90 10,-20)">&#916;yQCD</text>
+								</g>
+								<g id="CusGeoVisl" transform="translate(-155,-80)">
+									<path class="svgsolid" d="M-16 -12 L16 -12 L16 12 L-16 12 L-16 -12"/>
+									<path class="svgsolid" d="M-16 -2 L-6 -2 L-6 -12"/>
+									<path class="svgsolid" d="M16 2 L6 2 L6 12"/>
+									<path class="svgsolid" d="M-16 2 L-6 2 L-6 12"/>
+									<path class="svgsolid" d="M16 -2 L6 -2 L6 -12"/>
+									<text id="CusGeoLnw" class="svgannots" x="-14" y="-4">1</text>
+									<text id="CusGeoLne" class="svgannots" x="9" y="-4">2</text>
+									<text id="CusGeoLse" class="svgannots" x="9" y="10">3</text>
+									<text id="CusGeoLsw" class="svgannots" x="-14" y="10">4</text>
+								</g>
+								<g id="CusGeoVisr" transform="translate(155,-80)">
+									<path class="svgsolid" d="M-16 -12 L16 -12 L16 12 L-16 12 L-16 -12"/>
+									<path class="svgsolid" d="M-16 -2 L-6 -2 L-6 -12"/>
+									<path class="svgsolid" d="M16 2 L6 2 L6 12"/>
+									<path class="svgsolid" d="M-16 2 L-6 2 L-6 12"/>
+									<path class="svgsolid" d="M16 -2 L6 -2 L6 -12"/>
+									<text id="CusGeoRnw" class="svgannots" x="-14" y="-4">1</text>
+									<text id="CusGeoRne" class="svgannots" x="9" y="-4">2</text>
+									<text id="CusGeoRse" class="svgannots" x="9" y="10">3</text>
+									<text id="CusGeoRsw" class="svgannots" x="-14" y="10">4</text>
+								</g>
+								<g id="CusGeoLwir" transform="translate(-110,53)">
+									<path class="svgsolid" d="M-16 -12 L16 -12 L16 12 L-16 12 L-16 -12"/>
+									<path class="svgsolid" d="M-16 -2 L-6 -2 L-6 -12"/>
+									<path class="svgsolid" d="M16 2 L6 2 L6 12"/>
+									<path class="svgsolid" d="M-16 2 L-6 2 L-6 12"/>
+									<path class="svgsolid" d="M16 -2 L6 -2 L6 -12"/>
+									<text id="CusGeoInw" class="svgannots" x="-14" y="-4">1</text>
+									<text id="CusGeoIne" class="svgannots" x="9" y="-4">2</text>
+									<text id="CusGeoIse" class="svgannots" x="9" y="10">3</text>
+									<text id="CusGeoIsw" class="svgannots" x="-14" y="10">4</text>
+								</g>
+								<g id="CusGeoQcd" transform="translate(55,10)">
+									<path class="svgsolid" d="M-12 -12 L12 -12 L12 12 L-12 12 L-12 -12"/>
+									<path class="svgsolid" d="M-12 -2 L-2 -2 L-2 -12"/>
+									<path class="svgsolid" d="M12 2 L2 2 L2 12"/>
+									<path class="svgsolid" d="M-12 2 L-2 2 L-2 12"/>
+									<path class="svgsolid" d="M12 -2 L2 -2 L2 -12"/>
+									<text id="CusGeoQnw" class="svgannots" x="-10" y="-4">1</text>
+									<text id="CusGeoQne" class="svgannots" x="5" y="-4">2</text>
+									<text id="CusGeoQse" class="svgannots" x="5" y="10">3</text>
+									<text id="CusGeoQsw" class="svgannots" x="-10" y="10">4</text>
+								</g>
+								<g id="CusGeoAlign" transform="translate(6,4)">
+									<circle cx="0" cy="0" r="1.5" stroke="black" stroke-width="1" fill="black"/>
+									<path class="svgsolid" d="M3 0 L8 0 M0 3 L0 8 M-3 0 L-8 0 M0 -3 L0 -8 M2.121 2.121 L5.657 5.657 M-2.121 2.121 L-5.657 5.657 M-2.121 -2.121 L-5.657 -5.657 M2.121 -2.121 L5.657 -5.657"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+<!-- IP trGeo - REND -->
+				</tr>
+				<tr id="trDst" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptDst" class="cpt">CptDst</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfDst" class="txfs" type="text" value="TxfDst" onchange="handleTxfDstChange()" onkeypress="return handleTxfDstKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trIdx" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIdx" class="cpt">CptIdx</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfIdx" class="txfs" type="text" value="TxfIdx" onchange="handleTxfIdxChange()" onkeypress="return handleTxfIdxKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trIdy" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIdy" class="cpt">CptIdy</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfIdy" class="txfs" type="text" value="TxfIdy" onchange="handleTxfIdyChange()" onkeypress="return handleTxfIdyKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trQdx" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQdx" class="cpt">CptQdx</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfQdx" class="txfs" type="text" value="TxfQdx" onchange="handleTxfQdxChange()" onkeypress="return handleTxfQdxKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trQdy" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQdy" class="cpt">CptQdy</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfQdy" class="txfs" type="text" value="TxfQdy" onchange="handleTxfQdyChange()" onkeypress="return handleTxfQdyKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trAdx" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptAdx" class="cpt">CptAdx</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfAdx" class="txfs" type="text" value="TxfAdx" onchange="handleTxfAdxChange()" onkeypress="return handleTxfAdxKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trAdy" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptAdy" class="cpt">CptAdy</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfAdy" class="txfs" type="text" value="TxfAdy" onchange="handleTxfAdyChange()" onkeypress="return handleTxfAdyKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="tr11" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr12" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr13" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trVislr" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgVislr" class="cpt">HdgVislr</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trVwi" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVwi" class="cpt">CptVwi</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtVwi" class="txfsnoed" type="text" readonly="readonly" value="TxtVwi"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trVhe" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVhe" class="cpt">CptVhe</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtVhe" class="txfsnoed" type="text" readonly="readonly" value="TxtVhe"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trVhp" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVhp" class="cpt">CptVhp</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtVhp" class="txfsnoed" type="text" readonly="readonly" value="TxtVhp"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trVfl" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVfl" class="cpt">CptVfl</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtVfl" class="txfsnoed" type="text" readonly="readonly" value="TxtVfl"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trVfn" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVfn" class="cpt">CptVfn</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtVfn" class="txfsnoed" type="text" readonly="readonly" value="TxtVfn"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trLsg" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptLsg" class="cpt">CptLsg</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<select id="PupLsg" class="pups" size="1" onchange="handlePupLsgChange()"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trRsg" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptRsg" class="cpt">CptRsg</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<select id="PupRsg" class="pups" size="1" onchange="handlePupRsgChange()"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="tr21" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr22" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr23" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trLwir" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgLwir" class="cpt">HdgLwir</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trIwi" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIwi" class="cpt">CptIwi</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtIwi" class="txfsnoed" type="text" readonly="readonly" value="TxtIwi"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trIhe" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIhe" class="cpt">CptIhe</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtIhe" class="txfsnoed" type="text" readonly="readonly" value="TxtIhe"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trIhp" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIhp" class="cpt">CptIhp</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtIhp" class="txfsnoed" type="text" readonly="readonly" value="TxtIhp"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trIfl" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIfl" class="cpt">CptIfl</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtIfl" class="txfsnoed" type="text" readonly="readonly" value="TxtIfl"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trIfn" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIfn" class="cpt">CptIfn</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxtIfn" class="txfsnoed" type="text" readonly="readonly" value="TxtIfn"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trIsg" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIsg" class="cpt">CptIsg</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<select id="PupIsg" class="pups" size="1" onchange="handlePupIsgChange()"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="tr31" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr32" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr33" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trQcd" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgQcd" class="cpt">HdgQcd</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trQwh" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQwh" class="cpt">CptQwh</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="UpdQwhVal" class="txfs" type="text" value="UpdQwhVal" onchange="handleUpdQwhValChange()" onkeypress="return handleUpdQwhValKey(event)"/>
+					</td>
+					<td></td>
+					<td id="tdUpdQwh">
+						<svg class="svg" width="16" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<g id="UpdQwhUp" class="upd" onclick="handleUpdQwhUpClick()">
+								<rect x="0" y="5" width="16" height="4" fill="white" stroke="none"/>
+								<line x1="0" y1="9" x2="8" y2="5" stroke-width="1"/>
+								<line x1="8" y1="5" x2="16" y2="9" stroke-width="1"/>
+							</g>
+							<g id="UpdQwhDown" class="upd" onclick="handleUpdQwhDownClick()">
+								<rect x="0" y="17" width="16" height="4" fill="white" stroke="none"/>
+								<line x1="0" y1="17" x2="8" y2="21" stroke-width="1"/>
+								<line x1="8" y1="21" x2="16" y2="17" stroke-width="1"/>
+							</g>
+						</svg>
+					</td>
+					<td colspan="3"></td>
+				</tr>
+				<tr id="trQhp" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQhp" class="cpt">CptQhp</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfQhp" class="txfs" type="text" value="TxfQhp" onchange="handleTxfQhpChange()" onkeypress="return handleTxfQhpKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trQdp" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQdp" class="cpt">CptQdp</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfQdp" class="txfs" type="text" value="TxfQdp" onchange="handleTxfQdpChange()" onkeypress="return handleTxfQdpKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trQfl" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQfl" class="cpt">CptQfl</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfQfl" class="txfs" type="text" value="TxfQfl" onchange="handleTxfQflChange()" onkeypress="return handleTxfQflKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trQfn" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQfn" class="cpt">CptQfn</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<input id="TxfQfn" class="txfs" type="text" value="TxfQfn" onchange="handleTxfQfnChange()" onkeypress="return handleTxfQfnKey(event)"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr id="trQsg" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQsg" class="cpt">CptQsg</span>
+					</td>
+					<td></td>
+					<td colspan="3" align="left">
+						<select id="PupQsg" class="pups" size="1" onchange="handlePupQsgChange()"/>
+					</td>
+					<td></td>
+					<td colspan="4"></td>
+				</tr>
+				<tr><td colspan="11" height="4"></td></tr>
+			</tbody>
+		</form></table>
+	</body>
+</html>
+
+

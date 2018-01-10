@@ -1,0 +1,38 @@
+# file Makefile
+# make file for CrdIdecIaq card job handler, release idecd_che
+# author Alexander Wirthmueller
+# date created: 30 Dec 2017
+# modified: 30 Dec 2017
+
+include ../Makefile.inc
+
+CPP = g++
+CPPFLAGS = -std=c++11 -g -Wall -Os -pthread -DIDECD
+
+STATLIB = ar
+STATLIBFLAGS = rcs
+
+INCPATH = -I$(SRCROOT)/dbsidec -I$(SRCROOT)/idecd/VecIdec -I$(SRCROOT)/idecd/IexIdec -I$(SRCROOT)/idecd
+INCPATH += -I/home/mpsitech/src/devidhw -I/usr/include -I/usr/include/flycapture -I/usr/include/glib-2.0 /usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml2 -I/usr/include/mysql -I/usr/include/opencv -I/usr/include/postgresql -I/usr/local/include -I/usr/local/include/aravis-0.6
+
+OBJS = CrdIdecIaq.o PnlIdecIaqLive.o PnlIdecIaqMech.o PnlIdecIaqScill.o PnlIdecIaqQcdsp.o PnlIdecIaqHeadbar.o
+
+LIB = libcrdideciaq
+
+.SUFFIXES: .cpp
+
+.cpp.o :
+	$(CPP) $(CPPFLAGS) $(INCPATH) -o $@ -c $<
+
+all:	$(LIB)
+
+$(LIB):	$(OBJS)
+	$(STATLIB) $(STATLIBFLAGS) $(LIB).a $(OBJS)
+	rm -f *.o
+
+install:
+	mv $(LIB).a $(LIBROOT)/idecd/
+
+clean:
+	rm -f *.o
+

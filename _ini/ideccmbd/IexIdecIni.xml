@@ -1,0 +1,3882 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<IexIdecIni>
+	<ImeIAVKeylistKey>
+		<Ii num="1">
+			<kls>KlstIdecKAMPersonDetailType</kls>
+			<srf>eml</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>e-mail</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>E-Mail</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="2">
+			<kls>KlstIdecKAMPersonDetailType</kls>
+			<srf>fax</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>fax</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Telefax</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="3">
+			<kls>KlstIdecKAMPersonDetailType</kls>
+			<srf>mbl</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>mobile</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Handy</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="4">
+			<kls>KlstIdecKAMPersonDetailType</kls>
+			<srf>tel</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>phone</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Telefon</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="5">
+			<kls>KlstIdecKMFileContent</kls>
+			<srf>sngfrm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>single frame recording</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Einzelbildaufnahme</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="6">
+			<kls>KlstIdecKMFileContent</kls>
+			<srf>vid</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>video recording</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Videoaufzeichnung</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="7">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>bmp</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>image/bmp</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="8">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>cpp</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/x-c</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="9">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>css</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/css</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="10">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>csv</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/comma-separated-values</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="11">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>doc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/msword</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="12">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>docx</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/vnd.openxmlformats-officedocument.wordprocessingml.document</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="13">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>eps</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/postscript</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="14">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>gif</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>image/gif</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="15">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>h</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/x-h</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="16">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>hdf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/x-hdf</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="17">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>html</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/html</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="18">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>jpg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>image/jpeg</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="19">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>js</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/javascript</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="20">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>make</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/x-makefile</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="21">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>nc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/x-netcdf</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="22">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>pdf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/pdf</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="23">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>png</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>image/png</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="24">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>ppt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/mspowerpoint</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="25">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>pptx</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/vnd.openxmlformats-officedocument.presentationml.presentation</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="26">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>sh</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/x-sh</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="27">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>sql</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/x-sql</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="28">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>svg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>image/svg+xml</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="29">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>tex</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/x-tex</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="30">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>tgz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/x-gzip</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="31">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>tif</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>image/tiff</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="32">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>txt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/plain</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="33">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>xls</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/msexcel</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="34">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>xlsx</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="35">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>xml</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>text/xml</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="36">
+			<kls>KlstIdecKMFileMimetype</kls>
+			<srf>zip</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>application/zip</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="37">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ac</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Ascension Island</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Ascension</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="38">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ad</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Andorra</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Andorra</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="39">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ae</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>United Arab Emirates</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Vereinigte Arabische Emirate</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="40">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>af</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Afghanistan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Afghanistan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="41">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ag</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Antigua and Barbuda</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Antigua und Barbuda</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="42">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ai</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Anguilla</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Anguilla</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="43">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>al</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Albania</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Albanien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="44">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>am</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Armenia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Armenien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="45">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>an</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Netherlands Antilles</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Niederl\u00e4ndische Antillen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="46">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ao</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Angola</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Angola</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="47">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>aq</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Antarctica</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Antarktis</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="48">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ar</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Argentina</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Argentinien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="49">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>as</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>American Samoa</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Amerikanisch-Samoa</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="50">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>at</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Austria</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>\u00d6sterreich</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="51">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>au</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Australia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Australien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="52">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>aw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Aruba</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Aruba</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="53">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>az</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Azerbaijan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Aserbaidschan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="54">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ba</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bosnia and Herzegovina</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bosnien und Herzegovina</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="55">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bb</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Barbados</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Barbados</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="56">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bd</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bangladesh</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bangladesch</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="57">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>be</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Belgium</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Belgien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="58">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Burkina Faso</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Burkina Faso</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="59">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bulgaria</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bulgarien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="60">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bh</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bahrain</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bahrain</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="61">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bi</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Burundi</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Burundi</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="62">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bj</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Benin</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Benin</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="63">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bermuda</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bermuda</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="64">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Brunei</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Brunei</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="65">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bo</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bolivia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bolivien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="66">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>br</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Brazil</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Brasilien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="67">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bs</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bahamas</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bahamas</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="68">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bhutan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bhutan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="69">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bv</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Bouvet Island</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Bouvetinsel</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="70">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Botswana</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Botsuana</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="71">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>by</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Belarus</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Weissrussland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="72">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>bz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Belize</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Belize</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="73">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ca</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Canada</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kanada</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="74">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Cocos Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kokosinseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="75">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cd</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Republic of Congo</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kongo</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="76">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Central African Republic</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Zentralafrikanische Republik</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="77">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ch</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Switzerland</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Schweiz</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="78">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ci</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Ivory Coast</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Elfenbeink\u00fcste</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="79">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ck</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Cook Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Cookinseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="80">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cl</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Chile</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Chile</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="81">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Cameroon</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kamerun</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="82">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>China</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>China</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="83">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>co</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Colombia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kolumbien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="84">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Costa Rica</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Costa Rica</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="85">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cu</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Cuba</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kuba</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="86">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cv</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Cape Verde</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kap Verde</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="87">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cx</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Christmas Island</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Weihnachtsinsel</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="88">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cy</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Cyprus</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Zypern</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="89">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>cz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Czech Republic</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Tschechische Republik</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="90">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>de</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Germany</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Deutschland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="91">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>dj</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Djibouti</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Dschibuti</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="92">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>dk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Denmark</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>D\u00e4nemark</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="93">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>dm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Dominica</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Dominica</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="94">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>do</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Dominican Republic</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Dominikanische Republik</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="95">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>dz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Algeria</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Algerien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="96">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ec</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Ecuador</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Ecuador</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="97">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ee</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Estonia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Estland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="98">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>eg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Egypt</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>\u00c4gypten</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="99">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>eh</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Western Sahara</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Westsahara</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="100">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>er</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Eritrea</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Eritrea</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="101">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>es</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Spain</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Spanien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="102">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>et</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Ethiopia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>\u00c4thiopien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="103">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>fi</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Finland</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Finnland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="104">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>fj</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Fiji</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Fidschi</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="105">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>fk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Falkland Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Falklandinseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="106">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>fm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Micronesia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mikronesien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="107">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>fo</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Faroe Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>F\u00e4r\u00f6er</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="108">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>fr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>France</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Frankreich</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="109">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ga</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Gabon</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Gabun</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="110">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gd</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Grenada</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Grenada</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="111">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ge</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Georgia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Georgien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="112">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>French Guiana</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Franz\u00f6sisch-Guayana</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="113">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Guernsey</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Guernsey</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="114">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gh</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Ghana</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Ghana</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="115">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gi</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Gibraltar</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Gibraltar</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="116">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gl</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Greenland</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Gr\u00f6nland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="117">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Gambia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Gambia</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="118">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Guinea</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Guinea</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="119">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gp</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Guadeloupe</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Guadeloupe</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="120">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gq</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Equatorial Guinea</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>\u00c4quatorialguinea</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="121">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Greece</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Griechenland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="122">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gs</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>South Georgia and South Sandwich Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>S\u00fcdgeorgien und s\u00fcdl. Sandwichinseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="123">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Guatemala</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Guatemala</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="124">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gu</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Guam</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Guam</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="125">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Guinea-Bissau</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Guinea-Bissau</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="126">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>gy</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Guyana</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Guyana</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="127">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>hk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Hong Kong</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Hongkong</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="128">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>hm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Heard and Mc Donald Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Heard und die Mcdonaldinseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="129">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>hn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Honduras</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Honduras</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="130">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>hr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Croatia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kroatien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="131">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ht</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Haiti</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Haiti</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="132">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>hu</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Hungary</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Ungarn</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="133">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>id</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Indonesia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Indonesien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="134">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ie</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Ireland</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Irland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="135">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>il</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Israel</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Israel</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="136">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>im</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Isle of Man</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Insel Man</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="137">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>in</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>India</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Indien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="138">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>io</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>British Indian Ocean Territory</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Britisches Territorium im Indischen Ozean</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="139">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>iq</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Iraq</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Irak</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="140">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ir</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Iran</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Iran</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="141">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>is</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Iceland</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Island</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="142">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>it</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Italy</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Italien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="143">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>je</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Jersey</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Jersey</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="144">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>jm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Jamaica</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Jamaika</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="145">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>jo</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Jordan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Jordanien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="146">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>jp</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Japan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Japan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="147">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ke</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Kenya</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kenya</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="148">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>kg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Kyrgyzstan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kirgisistan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="149">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>kh</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Cambodia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kambodscha</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="150">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ki</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Kiribati</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kiribati</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="151">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>km</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Comoros</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Komoren</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="152">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>kn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Saint Kitts and Nevis</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>St. Kitts und Nevis</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="153">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>kp</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>North Korea</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Nordkorea</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="154">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>kr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>South Korea</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>S\u00fcdkorea</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="155">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>kw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Kuwait</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kuwait</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="156">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ky</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Cayman Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kaimaninseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="157">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>kz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Kazakhstan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kasachstan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="158">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>la</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Lao</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Laos</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="159">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>lb</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Lebanon</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Libanon</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="160">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>lc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Saint Lucia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>St. Lucia</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="161">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>li</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Liechtenstein</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Liechtenstein</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="162">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>lk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Sri Lanka</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Sri Lanka</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="163">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>lr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Liberia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Liberia</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="164">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ls</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Lesotho</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Lesotho</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="165">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>lt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Lithuania</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Litauen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="166">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>lu</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Luxembourg</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Luxemburg</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="167">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>lv</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Latvia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Lettland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="168">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ly</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Libya</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Libyen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="169">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ma</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Morocco</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Marokko</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="170">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Monaco</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Monaco</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="171">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>md</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Moldova</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Moldau</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="172">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>me</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Montenegro</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Montenegro</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="173">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Madagascar</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Madagaskar</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="174">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mh</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Marshall Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Marshallinseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="175">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Macedonia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mazedonien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="176">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ml</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Mali</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mali</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="177">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Myanmar</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Myanmar</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="178">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Mongolia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mongolei</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="179">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mo</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Macau</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Macau</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="180">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mp</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Northern Mariana Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>N\u00f6rdliche Marianen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="181">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mq</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Martinique</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Martinique</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="182">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Mauritania</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mauretanien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="183">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ms</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Montserrat</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Montserrat</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="184">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Malta</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Malta</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="185">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mu</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Mauritius</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mauritius</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="186">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mv</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Maldives</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Malediven</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="187">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Malawi</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Malawi</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="188">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mx</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Mexico</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mexiko</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="189">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>my</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Malaysia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Malaysia</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="190">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>mz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Mozambique</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mosambik</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="191">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>na</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Namibia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Namibia</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="192">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>nc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>New Caledonia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Neukaledonien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="193">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ne</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Niger</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Niger</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="194">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>nf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Norfolk Island</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Norfolkinsel</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="195">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ng</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Nigeria</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Nigeria</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="196">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ni</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Nicaragua</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Nicaragua</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="197">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>nl</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Netherlands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Niederlande</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="198">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>no</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Norway</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Norwegen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="199">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>np</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Nepal</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Nepal</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="200">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>nr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Nauru</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Nauru</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="201">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>nu</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Niue</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Niue</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="202">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>nz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>New Zealand</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Neuseeland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="203">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>om</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Oman</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Oman</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="204">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pa</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Panama</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Panama</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="205">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pe</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Peru</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Peru</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="206">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>French Polynesia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Franz\u00f6sisch-Polynesien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="207">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Papua New Guinea</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Papua-Neuguinea</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="208">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ph</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Philippines</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Philippinen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="209">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Pakistan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Pakistan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="210">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pl</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Poland</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Polen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="211">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>St. Pierre and Miquelon</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>St. Pierre und Miquelon</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="212">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Pitcairn Island</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Pitcairninseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="213">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Puerto Rico</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Puerto Rico</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="214">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ps</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Palestinian National Authority</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Pal\u00e4stinensische Autonomiegebiete</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="215">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Portugal</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Portugal</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="216">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>pw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Palau</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Palau</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="217">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>py</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Paraguay</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Paraguay</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="218">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>qa</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Qatar</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Katar</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="219">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>re</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Reunion Island</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>R\u00e9union</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="220">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ro</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Romania</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Rum\u00e4nien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="221">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>rs</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Serbia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Serbien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="222">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ru</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Russia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Russland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="223">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>rw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Rwanda</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Ruanda</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="224">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sa</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Saudi Arabia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Saudi-Arabien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="225">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sb</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Solomon Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Salomonen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="226">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Seychelles</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Seychellen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="227">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sd</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Sudan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Sudan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="228">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>se</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Sweden</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Schweden</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="229">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Singapore</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Singapur</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="230">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sh</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Saint Helena</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>St. Helena</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="231">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>si</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Slovenia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Slowenien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="232">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sj</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Svalbard and Jan Mayen Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Svalbard und Jan Mayen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="233">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Slovakia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Slowakei</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="234">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sl</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Sierra Leone</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Sierra Leone</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="235">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>San Marino</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>San Marino</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="236">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Senegal</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Senegal</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="237">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>so</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Somalia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Somalia</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="238">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Suriname</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Suriname</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="239">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>st</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>S\u00e3o Tome and Pr\u00edncipe</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>S\u00e3o Tom\u00e9 und Pr\u00edncipe</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="240">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sv</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>El Salvador</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>El Salvador</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="241">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sy</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Syria</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Syrien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="242">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>sz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Swaziland</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Swasiland</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="243">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Turks and Caicos Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Turksund Caicosinseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="244">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>td</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Chad</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Tschad</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="245">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>French Southern Territories</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Franz\u00f6sische S\u00fcd- und Antarktisgebiete</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="246">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Togo</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Togo</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="247">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>th</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Thailand</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Thailand</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="248">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tj</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Tajikistan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Tadschikistan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="249">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Tokelau</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Tokelau</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="250">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tl</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>East Timor</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Osttimor</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="251">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Turkmenistan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Turkmenistan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="252">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Tunisia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Tunesien</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="253">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>to</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Tonga</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Tonga</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="254">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tr</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Turkey</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>T\u00fcrkei</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="255">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Trinidad and Tobago</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Trinidad und Tobago</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="256">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tv</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Tuvalu</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Tuvalu</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="257">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Taiwan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Taiwan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="258">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>tz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Tanzania</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Tansania</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="259">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ua</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Ukraine</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Ukraine</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="260">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ug</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Uganda</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Uganda</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="261">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>uk</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>United Kingdom</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Vereinigtes K\u00f6nigreich</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="262">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>um</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>U.S. Minor Outlying Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Kleinere Amerikanische \u00dcberseeinseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="263">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>us</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>United States</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Vereinigte Staaten</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="264">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>uy</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Uruguay</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Uruguay</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="265">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>uz</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Uzbekistan</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Usbekistan</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="266">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>va</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Holy See</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Vatikanstadt</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="267">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>vc</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Saint Vincent and the Grenadines</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>St. Vincent und die Grenadinen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="268">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ve</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Venezuela</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Venezuela</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="269">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>vg</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Virgin Islands (British)</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Britische Jungferninseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="270">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>vi</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Virgin Islands (U.S.)</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Amerikanische Jungferninseln</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="271">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>vn</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Vietnam</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Vietnam</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="272">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>vu</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Vanuatu</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Vanuatu</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="273">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>wf</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Wallis and Futuna Islands</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Wallis und Futuna</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="274">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ws</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Samoa</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Samoa</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="275">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>ye</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Yemen</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Jemen</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="276">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>yt</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Mayotte</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Mayotte</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="277">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>za</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>South Africa</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>S\u00fcdafrika</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="278">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>zm</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Zambia</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Sambia</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+		<Ii num="279">
+			<kls>KlstIdecKMMissionCountry</kls>
+			<srf>zw</srf>
+			<ImeIJAVKeylistKey>
+				<Ii num="1">
+					<lcl>enus</lcl>
+					<tit>Zimbabwe</tit>
+				</Ii>
+				<Ii num="2">
+					<lcl>dech</lcl>
+					<tit>Simbabwe</tit>
+				</Ii>
+			</ImeIJAVKeylistKey>
+		</Ii>
+	</ImeIAVKeylistKey>
+	<ImeIMUsergroup>
+		<Ii num="1">
+			<srf>idecusers</srf>
+			<ImeIAMUsergroupAccess>
+				<Ii num="1">
+					<crd>CrdIdecUsg</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+				<Ii num="2">
+					<crd>CrdIdecUsr</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+				<Ii num="3">
+					<crd>CrdIdecScf</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+				<Ii num="4">
+					<crd>CrdIdecUtl</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+				<Ii num="5">
+					<crd>CrdIdecMis</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+				<Ii num="6">
+					<crd>CrdIdecTou</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+				<Ii num="7">
+					<crd>CrdIdecIaq</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+				<Ii num="8">
+					<crd>CrdIdecAd1</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+				<Ii num="9">
+					<crd>CrdIdecFil</crd>
+					<uac>edit;exec;view</uac>
+				</Ii>
+			</ImeIAMUsergroupAccess>
+			<ImeIMUser>
+				<Ii num="1">
+					<srf>idecuser</srf>
+					<lcl>enus</lcl>
+					<ulv>adm</ulv>
+					<pwd>asdf1234</pwd>
+					<ImeIJMUserState>
+						<Ii num="1">
+							<ste>act</ste>
+						</Ii>
+					</ImeIJMUserState>
+					<ImeIMPerson>
+						<Ii num="1">
+							<sex>f</sex>
+							<tit>Mrs.</tit>
+							<fnm>Emily</fnm>
+							<ImeIJMPersonLastname>
+								<Ii num="1">
+									<lnm>Johnson</lnm>
+								</Ii>
+							</ImeIJMPersonLastname>
+						</Ii>
+					</ImeIMPerson>
+				</Ii>
+				<Ii num="2">
+					<srf>idecuserdech</srf>
+					<lcl>dech</lcl>
+					<ulv>adm</ulv>
+					<pwd>asdf1234</pwd>
+					<ImeIJMUserState>
+						<Ii num="1">
+							<ste>act</ste>
+						</Ii>
+					</ImeIJMUserState>
+					<ImeIMPerson>
+						<Ii num="1">
+							<sex>f</sex>
+							<tit>Fr.</tit>
+							<fnm>Julia</fnm>
+							<ImeIJMPersonLastname>
+								<Ii num="1">
+									<lnm>Schmidt</lnm>
+								</Ii>
+							</ImeIJMPersonLastname>
+						</Ii>
+					</ImeIMPerson>
+				</Ii>
+			</ImeIMUser>
+		</Ii>
+	</ImeIMUsergroup>
+</IexIdecIni>

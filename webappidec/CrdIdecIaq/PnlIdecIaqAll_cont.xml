@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- IP file - KEEP -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<head>
+		<title>All_cont</title>
+		<script>
+			function handleButQcdOffClick() {parent.window.handleButQcdOffClick();};
+			function handleButQcdSingleClick() {parent.window.handleButQcdSingleClick();};
+			function handleButQcdArrayClick() {parent.window.handleButQcdArrayClick();};
+
+			function handleButSciSptClick() {parent.window.handleButSciSptClick();};
+			function handleButSciFldClick() {parent.window.handleButSciFldClick();};
+
+			function handleHsbJpleftMov() {parent.window.handleHsbJpleftMov();};
+			function handleHsbJpleftMou() {parent.window.handleHsbJpleftMou();};
+			function handleHsbJpleftClick(evt) {parent.window.handleHsbJpleftClick();};
+			function handleHsbJprightMov() {parent.window.handleHsbJprightMov();};
+			function handleHsbJprightMou() {parent.window.handleHsbJprightMou();};
+			function handleHsbJprightClick(evt) {parent.window.handleHsbJprightClick();};
+
+			function handleVsbJpupMov() {parent.window.handleVsbJpupMov();};
+			function handleVsbJpupMou() {parent.window.handleVsbJpupMou();};
+			function handleVsbJpupClick(evt) {parent.window.handleVsbJpupClick();};
+			function handleVsbJpdownMov() {parent.window.handleVsbJpdownMov();};
+			function handleVsbJpdownMou() {parent.window.handleVsbJpdownMou();};
+			function handleVsbJpdownClick(evt) {parent.window.handleVsbJpdownClick();};
+
+			function handleButQcdShowClick() {parent.window.handleButQcdShowClick();};
+			function handleButSnapClick() {parent.window.handleButSnapClick();};
+			function handlePxsSet(pixel) {parent.window.handlePxsSet(pixel);};
+		</script>
+		<link href="../style/pnlDetail3_2.css" rel="styleSheet" type="text/css"/>
+		<!-- IP custStyle - IBEGIN -->
+		<link href="../style/idec.css" rel="styleSheet" type="text/css"/>
+		<!-- IP custStyle - IEND -->
+	</head>
+	<body marginwidth="0" marginheight="0">
+		<div id="lwirarr" style="z-index:-1;position:absolute;display:block;top:25px;left:0px;width:120px;height:120px;background-color:#ffffff;">
+			<canvas style="display:block;cursor:pointer" id="cvs" width="120" height="120">This page needs a web-browser capable of displaying canvasses!</canvas>
+		</div>
+		<table cellspacing="0" border="0" cellpadding="0"><form action="">
+			<colgroup>
+				<col id="colAll" width="150"/>
+			</colgroup>
+			<tbody id="tbl">
+				<tr id="trHdr" class="show">
+					<td height="20">
+						<span class="svgannotm">QCD</span>
+						<img id="ButQcdOff" class="but" src="../iconidec/qcdoff.png" width="12" height="12" alt="ButQcdOff" onmouseover="src='../iconidec/qcdoff_hlt.png'" onmouseout="src='../iconidec/qcdoff.png'" onclick="handleButQcdOffClick()"/>
+						<img id="ButQcdSingle" class="but" src="../iconidec/qcdsng.png" width="12" height="12" alt="ButQcdSingle" onmouseover="src='../iconidec/qcdsng_hlt.png'" onmouseout="src='../iconidec/qcdsng.png'" onclick="handleButQcdSingleClick()"/>
+						<img id="ButQcdArray" class="but" src="../iconidec/qcdarr.png" width="12" height="12" alt="ButQcdArray" onmouseover="src='../iconidec/qcdarr_hlt.png'" onmouseout="src='../iconidec/qcdarr.png'" onclick="handleButQcdArrayClick()"/>&nbsp;
+						<span class="svgannotm">LEDs</span>
+						<img id="ButSciSpt" class="but" src="../iconidec/spot.png" width="12" height="12" alt="ButSciSpt" onmouseover="src='../iconidec/spot_hlt.png'" onmouseout="src='../iconidec/spot.png'" onclick="handleButSciSptClick()"/>
+						<img id="ButSciFld" class="but" src="../iconidec/flood.png" width="12" height="12" alt="ButSciFld" onmouseover="src='../iconidec/flood_hlt.png'" onmouseout="src='../iconidec/flood.png'" onclick="handleButSciFldClick()"/>
+					</td>
+				</tr>
+				<tr id="trSpc" class="show">
+					<td height="5"/>
+				</tr>
+				<tr id="trMain" class="show">
+					<td height="125">
+						<svg width="150px" height="125px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<g id="pxs" transform="translate(0,0)">
+								<text id="TxtWh" class="svgannotm" x="20" y="20">w,h</text>
+							</g>
+							<g id="hsb" transform="translate(0,120)">
+								<g id="HsbJpleft" class="sld" onmouseover="handleHsbJpleftMov()" onmouseout="handleHsbJpleftMou()" onclick="handleHsbJpleftClick(event)">
+									<rect id="HsbJpleftr" class="sldr" x="0" y="0" width="60" height="5"/>
+									<line id="HsbJpleftl" class="sldl" x1="0" y1="2.5" x2="58" y2="2.5"/>
+								</g>
+								<g id="HsbJpright" class="sld" onmouseover="handleHsbJprightMov()" onmouseout="handleHsbJprightMou()" onclick="handleHsbJprightClick(event)">
+									<rect id="HsbJprightr" class="sldr" x="60" y="0" width="60" height="5"/>
+									<line id="HsbJprightl" class="sldl" x1="62" y1="2.5" x2="120" y2="2.5"/>
+								</g>
+								<g id="Hsb" class="sld" transform="translate(60 0)" onmouseover="handleHsbMov()" onmouseout="handleHsbMou()" onmousedown="handleHsbMdn()">
+									<rect id="HsbR" class="sldr" x="-2" y="0" width="4" height="5"/>
+									<g id="HsbBar" class="sldl">
+										<line x1="-1.5" y1="0" x2="-1.5" y2="5"/>
+										<line x1="1.5" y1="0" x2="1.5" y2="5"/>
+									</g>
+								</g>
+							</g>
+							<g id="vsb" transform="translate(120,0)">
+								<g id="VsbJpup" class="sld" onmouseover="handleVsbJpupMov()" onmouseout="handleVsbJpupMou()" onclick="handleVsbJpupClick(event)">
+									<rect id="VsbJpupr" class="sldr" x="0" y="0" width="5" height="60"/>
+									<line id="VsbJpupl" class="sldl" x1="2.5" y1="0" x2="2.5" y2="58"/>
+								</g>
+								<g id="VsbJpdown" class="sld" onmouseover="handleVsbJpdownMov()" onmouseout="handleVsbJpdownMou()" onclick="handleVsbJpdownClick(event)">
+									<rect id="VsbJpdownr" class="sldr" x="0" y="60" width="5" height="60"/>
+									<line id="VsbJpdownl" class="sldl" x1="2.5" y1="62" x2="2.5" y2="120"/>
+								</g>
+								<g id="Vsb" class="sld" transform="translate(0 60)" onmouseover="handleVsbMov()" onmouseout="handleVsbMou()" onmousedown="handleVsbMdn()">
+									<rect id="VsbR" class="sldr" x="0" y="-2" width="5" height="4"/>
+									<g id="VsbBar" class="sldl">
+										<line x1="0" y1="-1.5" x2="5" y2="-1.5"/>
+										<line x1="0" y1="1.5" x2="5" y2="1.5"/>
+									</g>
+								</g>
+							</g>
+							<g id="side" transform="translate(125,0)">
+								<circle id="CsiQcdSte" style="fill:limegreen" cx="12.5" cy="25" r="3"/>
+								<image id="ButQcdShow" class="ftr_but" xlink:href="../iconidec/pqcd.png" x="6.5" y="40" width="12px" height="12px" alt="ButQcdShow" onmouseover="setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', '../iconidec/pqcd_hlt.png')" onmouseout="setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', '../iconidec/pqcd.png')" onclick="handleButPqcdClick()"/>
+								<image id="ButSnap" class="ftr_but" xlink:href="../iconidec/snap.png" x="6.5" y="100" width="12px" height="12px" alt="ButSnap" onmouseover="setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', '../iconidec/snap_hlt.png')" onmouseout="setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', '../iconidec/snap.png')" onclick="handleButSnapClick()"/>
+							</g>
+						</svg>
+					</td>
+				</tr>
+			</tbody>
+		</form></table>
+	</body>
+</html>

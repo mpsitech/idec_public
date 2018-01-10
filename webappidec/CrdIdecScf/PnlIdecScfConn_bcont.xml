@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<head>
+		<title>Conn_bcont</title>
+		<script>
+			function handlePupTspChange() {parent.parent.window.handlePupChange(document,"PupTsp","");};
+			function handlePupPspChange() {parent.parent.window.handlePupChange(document,"PupPsp","");};
+			function handlePupVtyChange() {parent.parent.window.handlePupChange(document,"PupVty","");};
+			function handlePupLsnChange() {parent.parent.window.handlePupChange(document,"PupLsn","");};
+			function handleButLsnToggleClick() {parent.parent.window.handleButToggleClick("PupLsn");};
+			function handleTxfLsnKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfLsn","",evt);};
+			function handleTxfLsnChange() {parent.parent.window.handleTxfChange(document,"TxfLsn","");};
+			function handlePupLpaChange() {parent.parent.window.handlePupChange(document,"PupLpa","");};
+			function handleButLpaToggleClick() {parent.parent.window.handleButToggleClick("PupLpa");};
+			function handleTxfLpaKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfLpa","",evt);};
+			function handleTxfLpaChange() {parent.parent.window.handleTxfChange(document,"TxfLpa","");};
+			function handlePupLtrChange() {parent.parent.window.handlePupChange(document,"PupLtr","");};
+			function handlePupRsnChange() {parent.parent.window.handlePupChange(document,"PupRsn","");};
+			function handleButRsnToggleClick() {parent.parent.window.handleButToggleClick("PupRsn");};
+			function handleTxfRsnKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfRsn","",evt);};
+			function handleTxfRsnChange() {parent.parent.window.handleTxfChange(document,"TxfRsn","");};
+			function handlePupRpaChange() {parent.parent.window.handlePupChange(document,"PupRpa","");};
+			function handleButRpaToggleClick() {parent.parent.window.handleButToggleClick("PupRpa");};
+			function handleTxfRpaKey(evt) {return parent.parent.window.handleTxfKey(document,"TxfRpa","",evt);};
+			function handleTxfRpaChange() {parent.parent.window.handleTxfChange(document,"TxfRpa","");};
+			function handlePupRtrChange() {parent.parent.window.handlePupChange(document,"PupRtr","");};
+			function handlePupQspChange() {parent.parent.window.handlePupChange(document,"PupQsp","");};
+			function handlePupFldChange() {parent.parent.window.handlePupChange(document,"PupFld","");};
+			function handlePupSptChange() {parent.parent.window.handlePupChange(document,"PupSpt","");};
+			function handlePupSldChange() {parent.parent.window.handlePupChange(document,"PupSld","");};
+			<!-- IP custScript - INSERT -->
+		</script>
+		<link href="../style/pnlDetail3_2.css" rel="styleSheet" type="text/css"/>
+<!-- IP custStyle - IBEGIN -->
+		<link href="../style/idec.css" rel="styleSheet" type="text/css"/>
+<!-- IP custStyle - IEND -->
+	</head>
+	<body marginwidth="0" marginheight="0">
+		<table cellspacing="0" border="0" cellpadding="0"><form action="">
+			<colgroup>
+				<col width="5"/>
+				<col width="215"/>
+				<col width="5"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="68"/>
+				<col width="2"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="1"/>
+				<col width="114"/>
+			</colgroup>
+			<tbody id="tbl">
+				<tr><td colspan="11" height="5"></td></tr>
+				<tr id="trSch" class="show">
+<!-- IP trSch - RBEGIN -->
+					<td height="300" colspan="11">
+						<svg width="690px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+							<g id="supply2" transform="translate(89.5,44.5)">
+								<path id="supoutline" class="svgguide" d="M0 0 L210 0 L210 156 L186 156 L186 180 L24 180 L24 156 L0 156 L0 0"/>
+								<g id="supspi1" transform="translate(39,159.6)">
+									<path class="svgsolid" d="M-7.5 -18 L7.5 -18 L7.5 18 L-7.5 18 L-7.5 -18"/>
+									<text id="CptSchSp1" class="svgannotm" x="-12" y="-5" text-anchor="end">spi1</text>
+									<text id="TxtSchSp1" class="svgannotm" x="-22" y="10" text-anchor="end">TxtSchSp1</text>
+									<circle id="CsiSchSp1" style="fill:limegreen" cx="-15" cy="7" r="3"/>
+								</g>
+								<g id="supspi2" transform="translate(75,159.6)">
+									<path class="svgsolid" d="M-7.5 -18 L7.5 -18 L7.5 18 L-7.5 18 L-7.5 -18"/>
+									<text id="CptSchSp2" class="svgannotm" x="12" y="-5">spi2</text>
+									<text id="TxtSchSp2" class="svgannotm" x="22" y="10">TxtSchSp2</text>
+									<circle id="CsiSchSp2" style="fill:limegreen" cx="15" cy="7" r="3"/>
+								</g>
+								<g id="supspi3" transform="translate(39,117.6)">
+									<path class="svgsolid" d="M-7.5 -18 L7.5 -18 L7.5 18 L-7.5 18 L-7.5 -18"/>
+									<text id="CptSchSp3" class="svgannotm" x="-12" y="-5" text-anchor="end">spi3</text>
+									<text id="TxtSchSp3" class="svgannotm" x="-22" y="10" text-anchor="end">TxtSchSp3</text>
+									<circle id="CsiSchSp3" style="fill:limegreen" cx="-15" cy="7" r="3"/>
+								</g>
+								<g id="supalign" transform="translate(75,117.6)">
+									<path class="svgsolid" d="M-7.5 -18 L7.5 -18 L7.5 18 L-7.5 18 L-7.5 -18"/>
+									<text id="CptSchAll" class="svgannotm" x="12" y="-5">CptSchAll</text>
+								</g>
+								<g id="supgpio1" transform="translate(39,75.6)">
+									<path class="svgsolid" d="M-7.5 -18 L7.5 -18 L7.5 18 L-7.5 18 L-7.5 -18"/>
+									<text id="CptSchGp1" class="svgannotm" x="-12" y="-5" text-anchor="end">gpio1</text>
+									<text id="TxtSchGp1" class="svgannotm" x="-12" y="10" text-anchor="end">TxtSchGp1</text>
+								</g>
+								<g id="supgpio2" transform="translate(75,75.6)">
+									<path class="svgsolid" d="M-7.5 -18 L7.5 -18 L7.5 18 L-7.5 18 L-7.5 -18"/>
+									<text id="CptSchGp2" class="svgannotm" x="12" y="-5">gpio2</text>
+									<text id="TxtSchGp2" class="svgannotm" x="12" y="10">TxtSchGp2</text>
+								</g>
+								<g id="supj3" transform="translate(120,9.9)">
+									<path class="svgsolid" d="M-8.7 -7.8 L8.7 -7.8 L8.7 7.8 L-8.7 7.8 L-8.7 -7.8"/>
+									<text class="svgannots" x="2" y="7">+</text>
+								</g>
+								<g id="supj4" transform="translate(120,26.7)">
+									<path class="svgsolid" d="M-8.7 -7.8 L8.7 -7.8 L8.7 7.8 L-8.7 7.8 L-8.7 -7.8"/>
+									<text class="svgannots" x="2" y="7">+</text>
+								</g>
+								<g id="supj5" transform="translate(120,43.5)">
+									<path class="svgsolid" d="M-8.7 -7.8 L8.7 -7.8 L8.7 7.8 L-8.7 7.8 L-8.7 -7.8"/>
+									<text class="svgannots" x="2" y="7">+</text>
+								</g>
+								<line class="svgsolid" x1="135" y1="5" x2="135" y2="49"/>
+								<text class="svgannotm" x="140" y="30">3x 12VDC</text>
+								<g id="supj6" transform="translate(120,63)">
+									<path class="svgsolid" d="M-8.7 -7.8 L8.7 -7.8 L8.7 7.8 L-8.7 7.8 L-8.7 -7.8"/>
+									<text class="svgannots" x="2" y="7">+</text>
+									<text id="TxtSchLd1" class="svgannotm" x="12" y="3">TxtSchLd1</text>
+								</g>
+								<g id="supj7" transform="translate(120,123)">
+									<path class="svgsolid" d="M-8.7 -7.8 L8.7 -7.8 L8.7 7.8 L-8.7 7.8 L-8.7 -7.8"/>
+									<text class="svgannots" x="2" y="7">+</text>
+									<text id="TxtSchLd2" class="svgannotm" x="12" y="3">TxtSchLd2</text>
+								</g>
+							</g>
+							<g id="dspcomplex2" transform="translate(399.5,0)">
+								<path id="dcxoutline" class="svgguide" d="M0 0 L210 0 L210 300 L0 300 L0 0"/>
+								<g id="dcxlwir" transform="translate(105,273)">
+									<path class="svgsolid" d="M-22.5 -6 L22.5 -6 L22.5 6 L-22.5 6 L-22.5 -6"/>
+									<text id="CptSchLwi" class="svgannotm" x="-22.5" y="-10">CptSchLwi</text>
+									<text id="TxtSchIps" class="svgannotm" x="-12.5" y="18">TxtSchIps</text>
+									<circle id="CsiSchIst" style="fill:limegreen" cx="-19.5" cy="15" r="3"/>
+								</g>
+								<g id="dcxusbotg" transform="translate(54,28.5)">
+									<path class="svgsolid" d="M-6.75 -18 L6.75 -18 L6.75 18 L-6.75 18 L-6.75 -18"/>
+									<text id="CptSchOtg" class="svgannotm" x="-12" y="-8" text-anchor="end">usbotg</text>
+									<text id="TxtSchOct" class="svgannotm" x="-12" y="4" text-anchor="end">TxtSchOct</text>
+									<text id="TxtSchOps" class="svgannotm" x="-22" y="16" text-anchor="end">TxtSchOps</text>
+									<circle id="CsiSchOst" style="fill:limegreen" cx="-15" cy="13" r="3"/>
+								</g>
+								<g id="dcxusbh" transform="translate(75,28.5)">
+									<path class="svgsolid" d="M-6.75 -18 L6.75 -18 L6.75 18 L-6.75 18 L-6.75 -18"/>
+									<text id="CptSchHst" class="svgannotm" x="12" y="-8">usbhost</text>
+									<text id="TxtSchHct" class="svgannotm" x="12" y="4">TxtSchHct</text>
+									<text id="TxtSchHps" class="svgannotm" x="22" y="16">TxtSchHps</text>
+									<circle id="CsiSchHst" style="fill:limegreen" cx="15" cy="13" r="3"/>
+								</g>
+							</g>
+						</svg>
+					</td>
+<!-- IP trSch - REND -->
+				</tr>
+				<tr id="trTsp" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptTsp" class="cpt">CptTsp</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupTsp" class="pup" size="1" onchange="handlePupTspChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trPsp" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptPsp" class="cpt">CptPsp</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupPsp" class="pup" size="1" onchange="handlePupPspChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trVty" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptVty" class="cpt">CptVty</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupVty" class="pup" size="1" onchange="handlePupVtyChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trLsn" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptLsn" class="cpt">CptLsn</span>
+						&#160;<img id="ButLsnToggle" class="but" src="../icon/toggle.png" width="16" height="16" valign="bottom" alt="ButLsnToggle" onmouseover="src='../icon/toggle_hlt.png'" onmouseout="src='../icon/toggle.png'" onclick="handleButLsnToggleClick()"/>
+					</td>
+					<td></td>
+					<td id="dynLsn" colspan="5" align="left">
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trLpa" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptLpa" class="cpt">CptLpa</span>
+						&#160;<img id="ButLpaToggle" class="but" src="../icon/toggle.png" width="16" height="16" valign="bottom" alt="ButLpaToggle" onmouseover="src='../icon/toggle_hlt.png'" onmouseout="src='../icon/toggle.png'" onclick="handleButLpaToggleClick()"/>
+					</td>
+					<td></td>
+					<td id="dynLpa" colspan="5" align="left">
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trLtr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptLtr" class="cpt">CptLtr</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupLtr" class="pup" size="1" onchange="handlePupLtrChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trRsn" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptRsn" class="cpt">CptRsn</span>
+						&#160;<img id="ButRsnToggle" class="but" src="../icon/toggle.png" width="16" height="16" valign="bottom" alt="ButRsnToggle" onmouseover="src='../icon/toggle_hlt.png'" onmouseout="src='../icon/toggle.png'" onclick="handleButRsnToggleClick()"/>
+					</td>
+					<td></td>
+					<td id="dynRsn" colspan="5" align="left">
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trRpa" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptRpa" class="cpt">CptRpa</span>
+						&#160;<img id="ButRpaToggle" class="but" src="../icon/toggle.png" width="16" height="16" valign="bottom" alt="ButRpaToggle" onmouseover="src='../icon/toggle_hlt.png'" onmouseout="src='../icon/toggle.png'" onclick="handleButRpaToggleClick()"/>
+					</td>
+					<td></td>
+					<td id="dynRpa" colspan="5" align="left">
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trRtr" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptRtr" class="cpt">CptRtr</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupRtr" class="pup" size="1" onchange="handlePupRtrChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trIsn" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptIsn" class="cpt">CptIsn</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<input id="TxtIsn" class="txfnoed" type="text" readonly="readonly" value="TxtIsn"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trQsp" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQsp" class="cpt">CptQsp</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupQsp" class="pup" size="1" onchange="handlePupQspChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trFld" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFld" class="cpt">CptFld</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupFld" class="pup" size="1" onchange="handlePupFldChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="trSpt" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptSpt" class="cpt">CptSpt</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupSpt" class="pup" size="1" onchange="handlePupSptChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr id="tr11" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr12" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr13" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trSld" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptSld" class="cpt">CptSld</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<select id="PupSld" class="pup" size="1" onchange="handlePupSldChange()"/>
+					</td>
+					<td></td>
+					<td colspan="2"></td>
+				</tr>
+				<tr><td colspan="11" height="4"></td></tr>
+			</tbody>
+		</form></table>
+	</body>
+</html>
+
+

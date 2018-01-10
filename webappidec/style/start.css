@@ -1,0 +1,62 @@
+.cpt {
+	font-size:12px;
+	font-family:Verdana,sans-serif;
+	font-weight:normal;
+}
+
+.txf {
+	font-size:12px;
+	font-family:Verdana,sans-serif;
+	font-weight:normal;
+	width:200px;
+	background-color:#ffffff;
+	border-left-style:solid;
+	border-right-style:none;
+	border-top-style:none;
+	border-bottom-style:solid;
+	border-width:1px;
+	border-color:#000000;
+}
+
+.hdr_cpt {
+	font-size:16px;
+	font-family:Verdana,sans-serif;
+	font-weight:normal;
+}
+
+.hdr_cptb {
+	font-size:12px;
+	font-family:Verdana,sans-serif;
+	font-weight:normal;
+	text-decoration:underline;
+}
+
+.hdr_pup {
+	font-size:12px;
+	font-family:Verdana,sans-serif;
+	font-weight:normal;
+	width:160px;
+}
+
+.ftr_but {
+	font-size:12px;
+	font-family:Verdana,sans-serif;
+	font-weight:normal;
+}
+
+.ftr_but:hover {
+	color:#ff7f00;
+	font-size:12px;
+	font-family:Verdana,sans-serif;
+	font-weight:normal;
+	cursor:pointer;
+}
+
+
+
+
+
+
+
+
+

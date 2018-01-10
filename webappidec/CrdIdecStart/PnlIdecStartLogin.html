@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Login</title>
+		<script src="../script/Idec.js" type="text/javascript"></script>
+		<script src="./PnlIdecStartLogin.js" type="text/javascript"></script>
+		<link href="../style/start.css" rel="styleSheet" type="text/css">
+	</head>
+	<body marginwidth="0" marginheight="0" onload="doc=null;handleLoad()">
+		<table cellspacing="0" border="0" cellpadding="0">
+			<colgroup>
+				<col width="1">
+				<col width="5">
+				<col width="170">
+				<col width="5">
+				<col width="299">
+			</colgroup>
+			<tr>
+				<td rowspan="7" height="15" bgcolor="#000000"></td>
+				<td></td>
+				<td colspan="3" align="left" valign="center">
+					<span id="CptVersion" class="hdr_cptb">ICARUSDetectorControl 0.2.1</span>
+				</td>
+			</tr>
+			<tr>
+				<td height="29"></td>
+				<td colspan="2" align="left" valign="center">
+					<span id="Cpt" class="hdr_cpt">Cpt</span>
+				</td>
+				<td align="right">
+					<select id="PupLocale" class="hdr_pup" size="1" onchange="handlePupLocaleChange()">
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="4" height="1" bgcolor="#000000"></td>
+			</tr>
+			<tr>
+				<td colspan="2" height="25" align="right">
+					<span id="CptUsername" class="cpt">CptUsername</span>
+				</td>
+				<td></td>
+				<td align="left">
+					<input id="TxfUsername" class="txf" type="text" value="">
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" height="25" align="right">
+					<span id="CptPassword" class="cpt">CptPassword</span>
+				</td>
+				<td></td>
+				<td align="left">
+					<input id="TxfPassword" class="txf" type="password" value="" onkeypress="return handleTxfPasswordKey(event)">
+				</td>
+			</tr>
+			<tr>
+				<td colspan="4" height="1" bgcolor="#000000"></td>
+			</tr>
+			<tr>
+				<td colspan="4" height="24" align="right" valign="center">
+					<span id="ButReset" class="ftr_but" onclick="handleButResetClick()">ButReset</span>
+					&nbsp;
+					<span id="ButLogin" class="ftr_but" onclick="handleButLoginClick()">ButLogin</span>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+

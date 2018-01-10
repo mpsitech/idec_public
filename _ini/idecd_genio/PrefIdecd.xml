@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PrefIdecd>
+	<StgIdecd>
+		<Si sref="jobprcn">1</Si>
+		<Si sref="opengsrvport"></Si>
+		<Si sref="appsrvport"></Si>
+		<Si sref="https">false</Si>
+		<Si sref="histlength">20</Si>
+	</StgIdecd>
+	<StgIdecDatabase>
+		<Si sref="srefIxDbsVDbstype"/>
+		<Si sref="dbspath"></Si>
+		<Si sref="dbsname"></Si>
+		<Si sref="username">mpsitech</Si>
+		<Si sref="password">f9w8feeh</Si>
+		<Si sref="ip"></Si>
+		<Si sref="port"></Si>
+	</StgIdecDatabase>
+	<StgIdecGeneral>
+		<Si sref="srefIxIdecVStled">test</Si>
+		<Si sref="dummy">false</Si>
+	</StgIdecGeneral>
+	<StgIdecHardware>
+		<Si sref="srefIxIdecVSystem">dspcomplex3spi</Si>
+		<Si sref="Nretry">3</Si>
+		<Si sref="dtpoll">100.0</Si>
+		<Si sref="path">/dev/spidev1.1</Si>
+		<Si sref="bps">24000000</Si>
+		<Si sref="logpath"></Si>
+	</StgIdecHardware>
+	<StgIdecMonitor>
+		<Si sref="username"></Si>
+		<Si sref="password"></Si>
+		<Si sref="ip"></Si>
+		<Si sref="port"></Si>
+		<Si sref="srefIxDbsVDbstype"/>
+		<Si sref="dbspath"></Si>
+		<Si sref="dbsname"></Si>
+		<Si sref="dbsusername"></Si>
+		<Si sref="dbspassword"></Si>
+	</StgIdecMonitor>
+	<StgIdecPath>
+		<Si sref="acvpath"></Si>
+		<Si sref="keypath"></Si>
+		<Si sref="monpath"></Si>
+		<Si sref="tmppath"></Si>
+		<Si sref="webpath"></Si>
+		<Si sref="helpurl"></Si>
+	</StgIdecPath>
+	<StgJobIdecFusion>
+		<Si sref="tcalib">0</Si>
+		<Si sref="dxlwir">-20.0</Si>
+		<Si sref="dylwir">-60.0</Si>
+		<Si sref="dthetalwir">0.0</Si>
+		<Si sref="dphilwir">0.0</Si>
+	</StgJobIdecFusion>
+	<StgJobIdecIllum>
+		<Si sref="srefFldIxIdecVPort">led1</Si>
+		<Si sref="srefSptIxIdecVPort">led2</Si>
+	</StgJobIdecIllum>
+	<StgJobIdecLwiracq>
+		<Si sref="srefIxIdecVCamtype">flirtau2</Si>
+		<Si sref="lam0">7.0</Si>
+		<Si sref="lam1">14.0</Si>
+		<Si sref="width">640</Si>
+		<Si sref="height">512</Si>
+		<Si sref="hpix">17</Si>
+		<Si sref="serno"></Si>
+		<Si sref="a">0.05</Si>
+		<Si sref="b">15000</Si>
+		<Si sref="dS">0.008</Si>
+		<Si sref="dT">0.006</Si>
+		<Si sref="iplTTvsSSx"/>
+		<Si sref="iplTTvsSSy"/>
+		<Si sref="srefIxIdecVSqrgrp">r2</Si>
+		<Si sref="f">9</Si>
+		<Si sref="fn">1.4</Si>
+		<Si sref="k1">0.0</Si>
+		<Si sref="k2">0.0</Si>
+		<Si sref="p1">0.0</Si>
+		<Si sref="p2">0.0</Si>
+		<Si sref="k3">0.0</Si>
+		<Si sref="k4">0.0</Si>
+		<Si sref="k5">0.0</Si>
+		<Si sref="k6">0.0</Si>
+	</StgJobIdecLwiracq>
+	<StgJobIdecMechctl>
+		<Si sref="srefIxVXlorient">xdown</Si>
+	</StgJobIdecMechctl>
+	<StgJobIdecMechctlPhi>
+		<Si sref="srefIxIdecVPort">spi2</Si>
+		<Si sref="tpr">6</Si>
+		<Si sref="tcalib">0</Si>
+		<Si sref="gr">550</Si>
+		<Si sref="Ox">0.0</Si>
+		<Si sref="Oy">0.0</Si>
+		<Si sref="Axm">1.0</Si>
+		<Si sref="Aym">1.0</Si>
+		<Si sref="phix">0.0</Si>
+		<Si sref="phiy">0.0</Si>
+		<Si sref="llim">-25.0</Si>
+		<Si sref="ulim">25.0</Si>
+		<Si sref="tstep">100</Si>
+	</StgJobIdecMechctlPhi>
+	<StgJobIdecMechctlTheta>
+		<Si sref="srefIxIdecVPort">spi1</Si>
+		<Si sref="tpr">6</Si>
+		<Si sref="tcalib">0</Si>
+		<Si sref="gr">825</Si>
+		<Si sref="Ox">0.0</Si>
+		<Si sref="Oy">0.0</Si>
+		<Si sref="Axm">1.0</Si>
+		<Si sref="Aym">1.0</Si>
+		<Si sref="phix">0.0</Si>
+		<Si sref="phiy">0.0</Si>
+		<Si sref="llim">-45.0</Si>
+		<Si sref="ulim">45.0</Si>
+		<Si sref="tstep">100</Si>
+	</StgJobIdecMechctlTheta>
+	<StgJobIdecQcdacq>
+		<Si sref="lam0">4.4</Si>
+		<Si sref="dlam">0.44</Si>
+		<Si sref="width">8</Si>
+		<Si sref="hpix">75</Si>
+		<Si sref="dpix">225</Si>
+		<Si sref="srefIxIdecVPort">spi3</Si>
+		<Si sref="tcalnuc">0</Si>
+		<Si sref="a"/>
+		<Si sref="b"/>
+		<Si sref="err"/>
+		<Si sref="multerr">1.2</Si>
+		<Si sref="dS">0.08</Si>
+		<Si sref="dT">0.006</Si>
+		<Si sref="iplTTvsSSx"/>
+		<Si sref="iplTTvsSSy"/>
+		<Si sref="iplDTdSvsSSx"/>
+		<Si sref="iplDTdSvsSSy"/>
+		<Si sref="srefIxIdecVSqrgrp">s1</Si>
+		<Si sref="f">30</Si>
+		<Si sref="fn">1.8</Si>
+		<Si sref="on">true</Si>
+		<Si sref="tturnoff">30.0</Si>
+		<Si sref="Tdet">-40.0</Si>
+		<Si sref="srefIxVFan">offrec</Si>
+		<Si sref="mod">true</Si>
+		<Si sref="fmod">150.0</Si>
+		<Si sref="Vdd">3.3</Si>
+		<Si sref="Vref">1.65</Si>
+		<Si sref="tcalaln">0</Si>
+		<Si sref="dxqcd">10.0</Si>
+		<Si sref="dyqcd">-30.0</Si>
+		<Si sref="dxalign">25.0</Si>
+		<Si sref="dyalign">0.0</Si>
+		<Si sref="dthetaalign">0.0</Si>
+		<Si sref="dphialign">0.0</Si>
+	</StgJobIdecQcdacq>
+	<StgJobIdecRecord>
+		<Si sref="srefFrmlIxIdecVCamres">max</Si>
+		<Si sref="frmlGray">false</Si>
+		<Si sref="srefFrmrIxIdecVCamres">off</Si>
+		<Si sref="frmrGray">false</Si>
+		<Si sref="srefFrmiIxIdecVCamres">max</Si>
+		<Si sref="frmqcd">false</Si>
+		<Si sref="frmstereo">false</Si>
+		<Si sref="vidfps">10.0</Si>
+		<Si sref="srefVidlIxIdecVCamres">_640</Si>
+		<Si sref="vidlGray">true</Si>
+		<Si sref="srefVidrIxIdecVCamres">off</Si>
+		<Si sref="vidrGray">false</Si>
+		<Si sref="srefVidiIxIdecVCamres">max</Si>
+		<Si sref="vidqcd">false</Si>
+		<Si sref="vidstereo">false</Si>
+		<Si sref="srefIxVOverwrite">never</Si>
+	</StgJobIdecRecord>
+	<StgJobIdecSpotfind>
+		<Si sref="seqlen">3</Si>
+		<Si sref="Pmax">1.0</Si>
+		<Si sref="adapt">true</Si>
+	</StgJobIdecSpotfind>
+	<StgJobIdecStereo>
+		<Si sref="tcalib">0</Si>
+		<Si sref="dstereo">120.0</Si>
+		<Si sref="dthetavisr">0.0</Si>
+		<Si sref="dphivisr">0.0</Si>
+	</StgJobIdecStereo>
+	<StgJobIdecTrigger>
+		<Si sref="tvisr">0.0</Si>
+		<Si sref="tlwir">0.0</Si>
+		<Si sref="tqcd">0.0</Si>
+	</StgJobIdecTrigger>
+	<StgJobIdecVislacq>
+		<Si sref="srefIxIdecVCamtype">mslife</Si>
+		<Si sref="width">1280</Si>
+		<Si sref="height">720</Si>
+		<Si sref="hpix">3</Si>
+		<Si sref="srefTrigIxIdecVPort">gpio1</Si>
+		<Si sref="path"></Si>
+		<Si sref="serno"></Si>
+		<Si sref="srefIxIdecVSqrgrp">r2</Si>
+		<Si sref="f">3</Si>
+		<Si sref="fn">2</Si>
+		<Si sref="k1">0.0</Si>
+		<Si sref="k2">0.0</Si>
+		<Si sref="p1">0.0</Si>
+		<Si sref="p2">0.0</Si>
+		<Si sref="k3">0.0</Si>
+		<Si sref="k4">0.0</Si>
+		<Si sref="k5">0.0</Si>
+		<Si sref="k6">0.0</Si>
+	</StgJobIdecVislacq>
+	<StgJobIdecVisracq>
+		<Si sref="srefIxIdecVCamtype">mslife</Si>
+		<Si sref="width">1280</Si>
+		<Si sref="height">720</Si>
+		<Si sref="hpix">3</Si>
+		<Si sref="srefTrigIxIdecVPort">gpio2</Si>
+		<Si sref="path"></Si>
+		<Si sref="serno"></Si>
+		<Si sref="srefIxIdecVSqrgrp">r2</Si>
+		<Si sref="f">3</Si>
+		<Si sref="fn">2</Si>
+		<Si sref="k1">0.0</Si>
+		<Si sref="k2">0.0</Si>
+		<Si sref="p1">0.0</Si>
+		<Si sref="p2">0.0</Si>
+		<Si sref="k3">0.0</Si>
+		<Si sref="k4">0.0</Si>
+		<Si sref="k5">0.0</Si>
+		<Si sref="k6">0.0</Si>
+	</StgJobIdecVisracq>
+</PrefIdecd>

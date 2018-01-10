@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0 plus SVG 1.1//EN" "http://www.w3.org/2002/04/xhtml-math-svg/xhtml-math-svg.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<head>
+		<title>Status_bcont</title>
+		<script>
+			function handleButTheClearClick() {parent.parent.window.handleButClick("ButTheClear");};
+			function handleButPhiClearClick() {parent.parent.window.handleButClick("ButPhiClear");};
+			function handleButSteClearClick() {parent.parent.window.handleButClick("ButSteClear");};
+			function handleButFusClearClick() {parent.parent.window.handleButClick("ButFusClear");};
+			function handleButQnuClearClick() {parent.parent.window.handleButClick("ButQnuClear");};
+			function handleButQalClearClick() {parent.parent.window.handleButClick("ButQalClear");};
+			function handleButAcvClearClick() {parent.parent.window.handleButClick("ButAcvClear");};
+			<!-- IP custScript - INSERT -->
+		</script>
+		<link href="../style/pnlDetail3_2.css" rel="styleSheet" type="text/css"/>
+		<!-- IP custStyle - INSERT -->
+	</head>
+	<body marginwidth="0" marginheight="0">
+		<table cellspacing="0" border="0" cellpadding="0"><form action="">
+			<colgroup>
+				<col width="5"/>
+				<col width="215"/>
+				<col width="5"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="68"/>
+				<col width="2"/>
+				<col width="138"/>
+				<col width="2"/>
+				<col width="1"/>
+				<col width="114"/>
+			</colgroup>
+			<tbody id="tbl">
+				<tr><td colspan="11" height="5"></td></tr>
+				<tr id="trCalib" class="show">
+					<td height="25"></td>
+					<td colspan="2"></td>
+					<td colspan="8" align="left">
+						<span id="HdgCalib" class="cpt">HdgCalib</span>&#160;&#160;
+					</td>
+				</tr>
+				<tr id="trThe" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptThe" class="cpt">CptThe</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<input id="TxtThe" class="txfnoed" type="text" readonly="readonly" value="TxtThe"/>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<span id="ButTheClear" class="but" onclick="handleButTheClearClick()">ButTheClear</span>
+					</td>
+				</tr>
+				<tr id="trPhi" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptPhi" class="cpt">CptPhi</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<input id="TxtPhi" class="txfnoed" type="text" readonly="readonly" value="TxtPhi"/>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<span id="ButPhiClear" class="but" onclick="handleButPhiClearClick()">ButPhiClear</span>
+					</td>
+				</tr>
+				<tr id="trSte" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptSte" class="cpt">CptSte</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<input id="TxtSte" class="txfnoed" type="text" readonly="readonly" value="TxtSte"/>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<span id="ButSteClear" class="but" onclick="handleButSteClearClick()">ButSteClear</span>
+					</td>
+				</tr>
+				<tr id="trFus" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptFus" class="cpt">CptFus</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<input id="TxtFus" class="txfnoed" type="text" readonly="readonly" value="TxtFus"/>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<span id="ButFusClear" class="but" onclick="handleButFusClearClick()">ButFusClear</span>
+					</td>
+				</tr>
+				<tr id="trQnu" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQnu" class="cpt">CptQnu</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<input id="TxtQnu" class="txfnoed" type="text" readonly="readonly" value="TxtQnu"/>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<span id="ButQnuClear" class="but" onclick="handleButQnuClearClick()">ButQnuClear</span>
+					</td>
+				</tr>
+				<tr id="trQal" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptQal" class="cpt">CptQal</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<input id="TxtQal" class="txfnoed" type="text" readonly="readonly" value="TxtQal"/>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<span id="ButQalClear" class="but" onclick="handleButQalClearClick()">ButQalClear</span>
+					</td>
+				</tr>
+				<tr id="tr11" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="tr12" class="show">
+					<td height="1"></td>
+					<td colspan="10" bgcolor="#7f7f7f"></td>
+				</tr>
+				<tr id="tr13" class="show"><td colspan="11" height="3"></td></tr>
+				<tr id="trAcv" class="show">
+					<td height="25"></td>
+					<td align="right">
+						<span id="CptAcv" class="cpt">CptAcv</span>
+					</td>
+					<td></td>
+					<td colspan="5" align="left">
+						<input id="TxtAcv" class="txfnoed" type="text" readonly="readonly" value="TxtAcv"/>
+					</td>
+					<td></td>
+					<td colspan="2" align="left">
+						<span id="ButAcvClear" class="but" onclick="handleButAcvClearClick()">ButAcvClear</span>
+					</td>
+				</tr>
+				<tr><td colspan="11" height="4"></td></tr>
+			</tbody>
+		</form></table>
+	</body>
+</html>
+
